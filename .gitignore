@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+SAME_opcodes.json
+ALL_opcodes.json

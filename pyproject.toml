@@ -1,0 +1,24 @@
+[project]
+name = "x86-opcode-bruteforcer"
+version = "0.1.0"
+description = "A tool for bruteforcing x86 opcodes using Capstone to find all different opcodes for the same mnemonics"
+readme = "README.md"
+requires-python = ">=3.6"
+dependencies = [
+    "capstone>=5.0.0",
+    "itertools",
+    "json",
+    "re",
+    "collections",
+]
+license = { file = "LICENSE" }
+authors = [
+    { name = "Nair-Turs", email = "dm.work.ac@gmail.com" },
+]
+
+[project.scripts]
+main = "x86opcode.main:main"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"

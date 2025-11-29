@@ -1,0 +1,6457 @@
+{
+  "adcah, ah": [
+    "10e4",
+    "12e4"
+  ],
+  "adcah, al": [
+    "10c4",
+    "12e0"
+  ],
+  "adcah, bh": [
+    "10fc",
+    "12e7"
+  ],
+  "adcah, bl": [
+    "10dc",
+    "12e3"
+  ],
+  "adcah, ch": [
+    "10ec",
+    "12e5"
+  ],
+  "adcah, cl": [
+    "10cc",
+    "12e1"
+  ],
+  "adcah, dh": [
+    "10f4",
+    "12e6"
+  ],
+  "adcah, dl": [
+    "10d4",
+    "12e2"
+  ],
+  "adcal, ah": [
+    "10e0",
+    "12c4"
+  ],
+  "adcal, al": [
+    "10c0",
+    "12c0"
+  ],
+  "adcal, bh": [
+    "10f8",
+    "12c7"
+  ],
+  "adcal, bl": [
+    "10d8",
+    "12c3"
+  ],
+  "adcal, ch": [
+    "10e8",
+    "12c5"
+  ],
+  "adcal, cl": [
+    "10c8",
+    "12c1"
+  ],
+  "adcal, dh": [
+    "10f0",
+    "12c6"
+  ],
+  "adcal, dl": [
+    "10d0",
+    "12c2"
+  ],
+  "adcbh, ah": [
+    "10e7",
+    "12fc"
+  ],
+  "adcbh, al": [
+    "10c7",
+    "12f8"
+  ],
+  "adcbh, bh": [
+    "10ff",
+    "12ff"
+  ],
+  "adcbh, bl": [
+    "10df",
+    "12fb"
+  ],
+  "adcbh, ch": [
+    "10ef",
+    "12fd"
+  ],
+  "adcbh, cl": [
+    "10cf",
+    "12f9"
+  ],
+  "adcbh, dh": [
+    "10f7",
+    "12fe"
+  ],
+  "adcbh, dl": [
+    "10d7",
+    "12fa"
+  ],
+  "adcbl, ah": [
+    "10e3",
+    "12dc"
+  ],
+  "adcbl, al": [
+    "10c3",
+    "12d8"
+  ],
+  "adcbl, bh": [
+    "10fb",
+    "12df"
+  ],
+  "adcbl, bl": [
+    "10db",
+    "12db"
+  ],
+  "adcbl, ch": [
+    "10eb",
+    "12dd"
+  ],
+  "adcbl, cl": [
+    "10cb",
+    "12d9"
+  ],
+  "adcbl, dh": [
+    "10f3",
+    "12de"
+  ],
+  "adcbl, dl": [
+    "10d3",
+    "12da"
+  ],
+  "adcch, ah": [
+    "10e5",
+    "12ec"
+  ],
+  "adcch, al": [
+    "10c5",
+    "12e8"
+  ],
+  "adcch, bh": [
+    "10fd",
+    "12ef"
+  ],
+  "adcch, bl": [
+    "10dd",
+    "12eb"
+  ],
+  "adcch, ch": [
+    "10ed",
+    "12ed"
+  ],
+  "adcch, cl": [
+    "10cd",
+    "12e9"
+  ],
+  "adcch, dh": [
+    "10f5",
+    "12ee"
+  ],
+  "adcch, dl": [
+    "10d5",
+    "12ea"
+  ],
+  "adccl, ah": [
+    "10e1",
+    "12cc"
+  ],
+  "adccl, al": [
+    "10c1",
+    "12c8"
+  ],
+  "adccl, bh": [
+    "10f9",
+    "12cf"
+  ],
+  "adccl, bl": [
+    "10d9",
+    "12cb"
+  ],
+  "adccl, ch": [
+    "10e9",
+    "12cd"
+  ],
+  "adccl, cl": [
+    "10c9",
+    "12c9"
+  ],
+  "adccl, dh": [
+    "10f1",
+    "12ce"
+  ],
+  "adccl, dl": [
+    "10d1",
+    "12ca"
+  ],
+  "adcdh, ah": [
+    "10e6",
+    "12f4"
+  ],
+  "adcdh, al": [
+    "10c6",
+    "12f0"
+  ],
+  "adcdh, bh": [
+    "10fe",
+    "12f7"
+  ],
+  "adcdh, bl": [
+    "10de",
+    "12f3"
+  ],
+  "adcdh, ch": [
+    "10ee",
+    "12f5"
+  ],
+  "adcdh, cl": [
+    "10ce",
+    "12f1"
+  ],
+  "adcdh, dh": [
+    "10f6",
+    "12f6"
+  ],
+  "adcdh, dl": [
+    "10d6",
+    "12f2"
+  ],
+  "adcdl, ah": [
+    "10e2",
+    "12d4"
+  ],
+  "adcdl, al": [
+    "10c2",
+    "12d0"
+  ],
+  "adcdl, bh": [
+    "10fa",
+    "12d7"
+  ],
+  "adcdl, bl": [
+    "10da",
+    "12d3"
+  ],
+  "adcdl, ch": [
+    "10ea",
+    "12d5"
+  ],
+  "adcdl, cl": [
+    "10ca",
+    "12d1"
+  ],
+  "adcdl, dh": [
+    "10f2",
+    "12d6"
+  ],
+  "adcdl, dl": [
+    "10d2",
+    "12d2"
+  ],
+  "adceax, eax": [
+    "11c0",
+    "13c0"
+  ],
+  "adceax, ebp": [
+    "11e8",
+    "13c5"
+  ],
+  "adceax, ebx": [
+    "11d8",
+    "13c3"
+  ],
+  "adceax, ecx": [
+    "11c8",
+    "13c1"
+  ],
+  "adceax, edi": [
+    "11f8",
+    "13c7"
+  ],
+  "adceax, edx": [
+    "11d0",
+    "13c2"
+  ],
+  "adceax, esi": [
+    "11f0",
+    "13c6"
+  ],
+  "adceax, esp": [
+    "11e0",
+    "13c4"
+  ],
+  "adcebp, eax": [
+    "11c5",
+    "13e8"
+  ],
+  "adcebp, ebp": [
+    "11ed",
+    "13ed"
+  ],
+  "adcebp, ebx": [
+    "11dd",
+    "13eb"
+  ],
+  "adcebp, ecx": [
+    "11cd",
+    "13e9"
+  ],
+  "adcebp, edi": [
+    "11fd",
+    "13ef"
+  ],
+  "adcebp, edx": [
+    "11d5",
+    "13ea"
+  ],
+  "adcebp, esi": [
+    "11f5",
+    "13ee"
+  ],
+  "adcebp, esp": [
+    "11e5",
+    "13ec"
+  ],
+  "adcebx, eax": [
+    "11c3",
+    "13d8"
+  ],
+  "adcebx, ebp": [
+    "11eb",
+    "13dd"
+  ],
+  "adcebx, ebx": [
+    "11db",
+    "13db"
+  ],
+  "adcebx, ecx": [
+    "11cb",
+    "13d9"
+  ],
+  "adcebx, edi": [
+    "11fb",
+    "13df"
+  ],
+  "adcebx, edx": [
+    "11d3",
+    "13da"
+  ],
+  "adcebx, esi": [
+    "11f3",
+    "13de"
+  ],
+  "adcebx, esp": [
+    "11e3",
+    "13dc"
+  ],
+  "adcecx, eax": [
+    "11c1",
+    "13c8"
+  ],
+  "adcecx, ebp": [
+    "11e9",
+    "13cd"
+  ],
+  "adcecx, ebx": [
+    "11d9",
+    "13cb"
+  ],
+  "adcecx, ecx": [
+    "11c9",
+    "13c9"
+  ],
+  "adcecx, edi": [
+    "11f9",
+    "13cf"
+  ],
+  "adcecx, edx": [
+    "11d1",
+    "13ca"
+  ],
+  "adcecx, esi": [
+    "11f1",
+    "13ce"
+  ],
+  "adcecx, esp": [
+    "11e1",
+    "13cc"
+  ],
+  "adcedi, eax": [
+    "11c7",
+    "13f8"
+  ],
+  "adcedi, ebp": [
+    "11ef",
+    "13fd"
+  ],
+  "adcedi, ebx": [
+    "11df",
+    "13fb"
+  ],
+  "adcedi, ecx": [
+    "11cf",
+    "13f9"
+  ],
+  "adcedi, edi": [
+    "11ff",
+    "13ff"
+  ],
+  "adcedi, edx": [
+    "11d7",
+    "13fa"
+  ],
+  "adcedi, esi": [
+    "11f7",
+    "13fe"
+  ],
+  "adcedi, esp": [
+    "11e7",
+    "13fc"
+  ],
+  "adcedx, eax": [
+    "11c2",
+    "13d0"
+  ],
+  "adcedx, ebp": [
+    "11ea",
+    "13d5"
+  ],
+  "adcedx, ebx": [
+    "11da",
+    "13d3"
+  ],
+  "adcedx, ecx": [
+    "11ca",
+    "13d1"
+  ],
+  "adcedx, edi": [
+    "11fa",
+    "13d7"
+  ],
+  "adcedx, edx": [
+    "11d2",
+    "13d2"
+  ],
+  "adcedx, esi": [
+    "11f2",
+    "13d6"
+  ],
+  "adcedx, esp": [
+    "11e2",
+    "13d4"
+  ],
+  "adcesi, eax": [
+    "11c6",
+    "13f0"
+  ],
+  "adcesi, ebp": [
+    "11ee",
+    "13f5"
+  ],
+  "adcesi, ebx": [
+    "11de",
+    "13f3"
+  ],
+  "adcesi, ecx": [
+    "11ce",
+    "13f1"
+  ],
+  "adcesi, edi": [
+    "11fe",
+    "13f7"
+  ],
+  "adcesi, edx": [
+    "11d6",
+    "13f2"
+  ],
+  "adcesi, esi": [
+    "11f6",
+    "13f6"
+  ],
+  "adcesi, esp": [
+    "11e6",
+    "13f4"
+  ],
+  "adcesp, eax": [
+    "11c4",
+    "13e0"
+  ],
+  "adcesp, ebp": [
+    "11ec",
+    "13e5"
+  ],
+  "adcesp, ebx": [
+    "11dc",
+    "13e3"
+  ],
+  "adcesp, ecx": [
+    "11cc",
+    "13e1"
+  ],
+  "adcesp, edi": [
+    "11fc",
+    "13e7"
+  ],
+  "adcesp, edx": [
+    "11d4",
+    "13e2"
+  ],
+  "adcesp, esi": [
+    "11f4",
+    "13e6"
+  ],
+  "adcesp, esp": [
+    "11e4",
+    "13e4"
+  ],
+  "addah, ah": [
+    "00e4",
+    "02e4"
+  ],
+  "addah, al": [
+    "00c4",
+    "02e0"
+  ],
+  "addah, bh": [
+    "00fc",
+    "02e7"
+  ],
+  "addah, bl": [
+    "00dc",
+    "02e3"
+  ],
+  "addah, ch": [
+    "00ec",
+    "02e5"
+  ],
+  "addah, cl": [
+    "00cc",
+    "02e1"
+  ],
+  "addah, dh": [
+    "00f4",
+    "02e6"
+  ],
+  "addah, dl": [
+    "00d4",
+    "02e2"
+  ],
+  "addal, ah": [
+    "00e0",
+    "02c4"
+  ],
+  "addal, al": [
+    "00c0",
+    "02c0"
+  ],
+  "addal, bh": [
+    "00f8",
+    "02c7"
+  ],
+  "addal, bl": [
+    "00d8",
+    "02c3"
+  ],
+  "addal, ch": [
+    "00e8",
+    "02c5"
+  ],
+  "addal, cl": [
+    "00c8",
+    "02c1"
+  ],
+  "addal, dh": [
+    "00f0",
+    "02c6"
+  ],
+  "addal, dl": [
+    "00d0",
+    "02c2"
+  ],
+  "addbh, ah": [
+    "00e7",
+    "02fc"
+  ],
+  "addbh, al": [
+    "00c7",
+    "02f8"
+  ],
+  "addbh, bh": [
+    "00ff",
+    "02ff"
+  ],
+  "addbh, bl": [
+    "00df",
+    "02fb"
+  ],
+  "addbh, ch": [
+    "00ef",
+    "02fd"
+  ],
+  "addbh, cl": [
+    "00cf",
+    "02f9"
+  ],
+  "addbh, dh": [
+    "00f7",
+    "02fe"
+  ],
+  "addbh, dl": [
+    "00d7",
+    "02fa"
+  ],
+  "addbl, ah": [
+    "00e3",
+    "02dc"
+  ],
+  "addbl, al": [
+    "00c3",
+    "02d8"
+  ],
+  "addbl, bh": [
+    "00fb",
+    "02df"
+  ],
+  "addbl, bl": [
+    "00db",
+    "02db"
+  ],
+  "addbl, ch": [
+    "00eb",
+    "02dd"
+  ],
+  "addbl, cl": [
+    "00cb",
+    "02d9"
+  ],
+  "addbl, dh": [
+    "00f3",
+    "02de"
+  ],
+  "addbl, dl": [
+    "00d3",
+    "02da"
+  ],
+  "addch, ah": [
+    "00e5",
+    "02ec"
+  ],
+  "addch, al": [
+    "00c5",
+    "02e8"
+  ],
+  "addch, bh": [
+    "00fd",
+    "02ef"
+  ],
+  "addch, bl": [
+    "00dd",
+    "02eb"
+  ],
+  "addch, ch": [
+    "00ed",
+    "02ed"
+  ],
+  "addch, cl": [
+    "00cd",
+    "02e9"
+  ],
+  "addch, dh": [
+    "00f5",
+    "02ee"
+  ],
+  "addch, dl": [
+    "00d5",
+    "02ea"
+  ],
+  "addcl, ah": [
+    "00e1",
+    "02cc"
+  ],
+  "addcl, al": [
+    "00c1",
+    "02c8"
+  ],
+  "addcl, bh": [
+    "00f9",
+    "02cf"
+  ],
+  "addcl, bl": [
+    "00d9",
+    "02cb"
+  ],
+  "addcl, ch": [
+    "00e9",
+    "02cd"
+  ],
+  "addcl, cl": [
+    "00c9",
+    "02c9"
+  ],
+  "addcl, dh": [
+    "00f1",
+    "02ce"
+  ],
+  "addcl, dl": [
+    "00d1",
+    "02ca"
+  ],
+  "adddh, ah": [
+    "00e6",
+    "02f4"
+  ],
+  "adddh, al": [
+    "00c6",
+    "02f0"
+  ],
+  "adddh, bh": [
+    "00fe",
+    "02f7"
+  ],
+  "adddh, bl": [
+    "00de",
+    "02f3"
+  ],
+  "adddh, ch": [
+    "00ee",
+    "02f5"
+  ],
+  "adddh, cl": [
+    "00ce",
+    "02f1"
+  ],
+  "adddh, dh": [
+    "00f6",
+    "02f6"
+  ],
+  "adddh, dl": [
+    "00d6",
+    "02f2"
+  ],
+  "adddl, ah": [
+    "00e2",
+    "02d4"
+  ],
+  "adddl, al": [
+    "00c2",
+    "02d0"
+  ],
+  "adddl, bh": [
+    "00fa",
+    "02d7"
+  ],
+  "adddl, bl": [
+    "00da",
+    "02d3"
+  ],
+  "adddl, ch": [
+    "00ea",
+    "02d5"
+  ],
+  "adddl, cl": [
+    "00ca",
+    "02d1"
+  ],
+  "adddl, dh": [
+    "00f2",
+    "02d6"
+  ],
+  "adddl, dl": [
+    "00d2",
+    "02d2"
+  ],
+  "addeax, eax": [
+    "01c0",
+    "03c0"
+  ],
+  "addeax, ebp": [
+    "01e8",
+    "03c5"
+  ],
+  "addeax, ebx": [
+    "01d8",
+    "03c3"
+  ],
+  "addeax, ecx": [
+    "01c8",
+    "03c1"
+  ],
+  "addeax, edi": [
+    "01f8",
+    "03c7"
+  ],
+  "addeax, edx": [
+    "01d0",
+    "03c2"
+  ],
+  "addeax, esi": [
+    "01f0",
+    "03c6"
+  ],
+  "addeax, esp": [
+    "01e0",
+    "03c4"
+  ],
+  "addebp, eax": [
+    "01c5",
+    "03e8"
+  ],
+  "addebp, ebp": [
+    "01ed",
+    "03ed"
+  ],
+  "addebp, ebx": [
+    "01dd",
+    "03eb"
+  ],
+  "addebp, ecx": [
+    "01cd",
+    "03e9"
+  ],
+  "addebp, edi": [
+    "01fd",
+    "03ef"
+  ],
+  "addebp, edx": [
+    "01d5",
+    "03ea"
+  ],
+  "addebp, esi": [
+    "01f5",
+    "03ee"
+  ],
+  "addebp, esp": [
+    "01e5",
+    "03ec"
+  ],
+  "addebx, eax": [
+    "01c3",
+    "03d8"
+  ],
+  "addebx, ebp": [
+    "01eb",
+    "03dd"
+  ],
+  "addebx, ebx": [
+    "01db",
+    "03db"
+  ],
+  "addebx, ecx": [
+    "01cb",
+    "03d9"
+  ],
+  "addebx, edi": [
+    "01fb",
+    "03df"
+  ],
+  "addebx, edx": [
+    "01d3",
+    "03da"
+  ],
+  "addebx, esi": [
+    "01f3",
+    "03de"
+  ],
+  "addebx, esp": [
+    "01e3",
+    "03dc"
+  ],
+  "addecx, eax": [
+    "01c1",
+    "03c8"
+  ],
+  "addecx, ebp": [
+    "01e9",
+    "03cd"
+  ],
+  "addecx, ebx": [
+    "01d9",
+    "03cb"
+  ],
+  "addecx, ecx": [
+    "01c9",
+    "03c9"
+  ],
+  "addecx, edi": [
+    "01f9",
+    "03cf"
+  ],
+  "addecx, edx": [
+    "01d1",
+    "03ca"
+  ],
+  "addecx, esi": [
+    "01f1",
+    "03ce"
+  ],
+  "addecx, esp": [
+    "01e1",
+    "03cc"
+  ],
+  "addedi, eax": [
+    "01c7",
+    "03f8"
+  ],
+  "addedi, ebp": [
+    "01ef",
+    "03fd"
+  ],
+  "addedi, ebx": [
+    "01df",
+    "03fb"
+  ],
+  "addedi, ecx": [
+    "01cf",
+    "03f9"
+  ],
+  "addedi, edi": [
+    "01ff",
+    "03ff"
+  ],
+  "addedi, edx": [
+    "01d7",
+    "03fa"
+  ],
+  "addedi, esi": [
+    "01f7",
+    "03fe"
+  ],
+  "addedi, esp": [
+    "01e7",
+    "03fc"
+  ],
+  "addedx, eax": [
+    "01c2",
+    "03d0"
+  ],
+  "addedx, ebp": [
+    "01ea",
+    "03d5"
+  ],
+  "addedx, ebx": [
+    "01da",
+    "03d3"
+  ],
+  "addedx, ecx": [
+    "01ca",
+    "03d1"
+  ],
+  "addedx, edi": [
+    "01fa",
+    "03d7"
+  ],
+  "addedx, edx": [
+    "01d2",
+    "03d2"
+  ],
+  "addedx, esi": [
+    "01f2",
+    "03d6"
+  ],
+  "addedx, esp": [
+    "01e2",
+    "03d4"
+  ],
+  "addesi, eax": [
+    "01c6",
+    "03f0"
+  ],
+  "addesi, ebp": [
+    "01ee",
+    "03f5"
+  ],
+  "addesi, ebx": [
+    "01de",
+    "03f3"
+  ],
+  "addesi, ecx": [
+    "01ce",
+    "03f1"
+  ],
+  "addesi, edi": [
+    "01fe",
+    "03f7"
+  ],
+  "addesi, edx": [
+    "01d6",
+    "03f2"
+  ],
+  "addesi, esi": [
+    "01f6",
+    "03f6"
+  ],
+  "addesi, esp": [
+    "01e6",
+    "03f4"
+  ],
+  "addesp, eax": [
+    "01c4",
+    "03e0"
+  ],
+  "addesp, ebp": [
+    "01ec",
+    "03e5"
+  ],
+  "addesp, ebx": [
+    "01dc",
+    "03e3"
+  ],
+  "addesp, ecx": [
+    "01cc",
+    "03e1"
+  ],
+  "addesp, edi": [
+    "01fc",
+    "03e7"
+  ],
+  "addesp, edx": [
+    "01d4",
+    "03e2"
+  ],
+  "addesp, esi": [
+    "01f4",
+    "03e6"
+  ],
+  "addesp, esp": [
+    "01e4",
+    "03e4"
+  ],
+  "andah, ah": [
+    "20e4",
+    "22e4"
+  ],
+  "andah, al": [
+    "20c4",
+    "22e0"
+  ],
+  "andah, bh": [
+    "20fc",
+    "22e7"
+  ],
+  "andah, bl": [
+    "20dc",
+    "22e3"
+  ],
+  "andah, ch": [
+    "20ec",
+    "22e5"
+  ],
+  "andah, cl": [
+    "20cc",
+    "22e1"
+  ],
+  "andah, dh": [
+    "20f4",
+    "22e6"
+  ],
+  "andah, dl": [
+    "20d4",
+    "22e2"
+  ],
+  "andal, ah": [
+    "20e0",
+    "22c4"
+  ],
+  "andal, al": [
+    "20c0",
+    "22c0"
+  ],
+  "andal, bh": [
+    "20f8",
+    "22c7"
+  ],
+  "andal, bl": [
+    "20d8",
+    "22c3"
+  ],
+  "andal, ch": [
+    "20e8",
+    "22c5"
+  ],
+  "andal, cl": [
+    "20c8",
+    "22c1"
+  ],
+  "andal, dh": [
+    "20f0",
+    "22c6"
+  ],
+  "andal, dl": [
+    "20d0",
+    "22c2"
+  ],
+  "andbh, ah": [
+    "20e7",
+    "22fc"
+  ],
+  "andbh, al": [
+    "20c7",
+    "22f8"
+  ],
+  "andbh, bh": [
+    "20ff",
+    "22ff"
+  ],
+  "andbh, bl": [
+    "20df",
+    "22fb"
+  ],
+  "andbh, ch": [
+    "20ef",
+    "22fd"
+  ],
+  "andbh, cl": [
+    "20cf",
+    "22f9"
+  ],
+  "andbh, dh": [
+    "20f7",
+    "22fe"
+  ],
+  "andbh, dl": [
+    "20d7",
+    "22fa"
+  ],
+  "andbl, ah": [
+    "20e3",
+    "22dc"
+  ],
+  "andbl, al": [
+    "20c3",
+    "22d8"
+  ],
+  "andbl, bh": [
+    "20fb",
+    "22df"
+  ],
+  "andbl, bl": [
+    "20db",
+    "22db"
+  ],
+  "andbl, ch": [
+    "20eb",
+    "22dd"
+  ],
+  "andbl, cl": [
+    "20cb",
+    "22d9"
+  ],
+  "andbl, dh": [
+    "20f3",
+    "22de"
+  ],
+  "andbl, dl": [
+    "20d3",
+    "22da"
+  ],
+  "andch, ah": [
+    "20e5",
+    "22ec"
+  ],
+  "andch, al": [
+    "20c5",
+    "22e8"
+  ],
+  "andch, bh": [
+    "20fd",
+    "22ef"
+  ],
+  "andch, bl": [
+    "20dd",
+    "22eb"
+  ],
+  "andch, ch": [
+    "20ed",
+    "22ed"
+  ],
+  "andch, cl": [
+    "20cd",
+    "22e9"
+  ],
+  "andch, dh": [
+    "20f5",
+    "22ee"
+  ],
+  "andch, dl": [
+    "20d5",
+    "22ea"
+  ],
+  "andcl, ah": [
+    "20e1",
+    "22cc"
+  ],
+  "andcl, al": [
+    "20c1",
+    "22c8"
+  ],
+  "andcl, bh": [
+    "20f9",
+    "22cf"
+  ],
+  "andcl, bl": [
+    "20d9",
+    "22cb"
+  ],
+  "andcl, ch": [
+    "20e9",
+    "22cd"
+  ],
+  "andcl, cl": [
+    "20c9",
+    "22c9"
+  ],
+  "andcl, dh": [
+    "20f1",
+    "22ce"
+  ],
+  "andcl, dl": [
+    "20d1",
+    "22ca"
+  ],
+  "anddh, ah": [
+    "20e6",
+    "22f4"
+  ],
+  "anddh, al": [
+    "20c6",
+    "22f0"
+  ],
+  "anddh, bh": [
+    "20fe",
+    "22f7"
+  ],
+  "anddh, bl": [
+    "20de",
+    "22f3"
+  ],
+  "anddh, ch": [
+    "20ee",
+    "22f5"
+  ],
+  "anddh, cl": [
+    "20ce",
+    "22f1"
+  ],
+  "anddh, dh": [
+    "20f6",
+    "22f6"
+  ],
+  "anddh, dl": [
+    "20d6",
+    "22f2"
+  ],
+  "anddl, ah": [
+    "20e2",
+    "22d4"
+  ],
+  "anddl, al": [
+    "20c2",
+    "22d0"
+  ],
+  "anddl, bh": [
+    "20fa",
+    "22d7"
+  ],
+  "anddl, bl": [
+    "20da",
+    "22d3"
+  ],
+  "anddl, ch": [
+    "20ea",
+    "22d5"
+  ],
+  "anddl, cl": [
+    "20ca",
+    "22d1"
+  ],
+  "anddl, dh": [
+    "20f2",
+    "22d6"
+  ],
+  "anddl, dl": [
+    "20d2",
+    "22d2"
+  ],
+  "andeax, eax": [
+    "21c0",
+    "23c0"
+  ],
+  "andeax, ebp": [
+    "21e8",
+    "23c5"
+  ],
+  "andeax, ebx": [
+    "21d8",
+    "23c3"
+  ],
+  "andeax, ecx": [
+    "21c8",
+    "23c1"
+  ],
+  "andeax, edi": [
+    "21f8",
+    "23c7"
+  ],
+  "andeax, edx": [
+    "21d0",
+    "23c2"
+  ],
+  "andeax, esi": [
+    "21f0",
+    "23c6"
+  ],
+  "andeax, esp": [
+    "21e0",
+    "23c4"
+  ],
+  "andebp, eax": [
+    "21c5",
+    "23e8"
+  ],
+  "andebp, ebp": [
+    "21ed",
+    "23ed"
+  ],
+  "andebp, ebx": [
+    "21dd",
+    "23eb"
+  ],
+  "andebp, ecx": [
+    "21cd",
+    "23e9"
+  ],
+  "andebp, edi": [
+    "21fd",
+    "23ef"
+  ],
+  "andebp, edx": [
+    "21d5",
+    "23ea"
+  ],
+  "andebp, esi": [
+    "21f5",
+    "23ee"
+  ],
+  "andebp, esp": [
+    "21e5",
+    "23ec"
+  ],
+  "andebx, eax": [
+    "21c3",
+    "23d8"
+  ],
+  "andebx, ebp": [
+    "21eb",
+    "23dd"
+  ],
+  "andebx, ebx": [
+    "21db",
+    "23db"
+  ],
+  "andebx, ecx": [
+    "21cb",
+    "23d9"
+  ],
+  "andebx, edi": [
+    "21fb",
+    "23df"
+  ],
+  "andebx, edx": [
+    "21d3",
+    "23da"
+  ],
+  "andebx, esi": [
+    "21f3",
+    "23de"
+  ],
+  "andebx, esp": [
+    "21e3",
+    "23dc"
+  ],
+  "andecx, eax": [
+    "21c1",
+    "23c8"
+  ],
+  "andecx, ebp": [
+    "21e9",
+    "23cd"
+  ],
+  "andecx, ebx": [
+    "21d9",
+    "23cb"
+  ],
+  "andecx, ecx": [
+    "21c9",
+    "23c9"
+  ],
+  "andecx, edi": [
+    "21f9",
+    "23cf"
+  ],
+  "andecx, edx": [
+    "21d1",
+    "23ca"
+  ],
+  "andecx, esi": [
+    "21f1",
+    "23ce"
+  ],
+  "andecx, esp": [
+    "21e1",
+    "23cc"
+  ],
+  "andedi, eax": [
+    "21c7",
+    "23f8"
+  ],
+  "andedi, ebp": [
+    "21ef",
+    "23fd"
+  ],
+  "andedi, ebx": [
+    "21df",
+    "23fb"
+  ],
+  "andedi, ecx": [
+    "21cf",
+    "23f9"
+  ],
+  "andedi, edi": [
+    "21ff",
+    "23ff"
+  ],
+  "andedi, edx": [
+    "21d7",
+    "23fa"
+  ],
+  "andedi, esi": [
+    "21f7",
+    "23fe"
+  ],
+  "andedi, esp": [
+    "21e7",
+    "23fc"
+  ],
+  "andedx, eax": [
+    "21c2",
+    "23d0"
+  ],
+  "andedx, ebp": [
+    "21ea",
+    "23d5"
+  ],
+  "andedx, ebx": [
+    "21da",
+    "23d3"
+  ],
+  "andedx, ecx": [
+    "21ca",
+    "23d1"
+  ],
+  "andedx, edi": [
+    "21fa",
+    "23d7"
+  ],
+  "andedx, edx": [
+    "21d2",
+    "23d2"
+  ],
+  "andedx, esi": [
+    "21f2",
+    "23d6"
+  ],
+  "andedx, esp": [
+    "21e2",
+    "23d4"
+  ],
+  "andesi, eax": [
+    "21c6",
+    "23f0"
+  ],
+  "andesi, ebp": [
+    "21ee",
+    "23f5"
+  ],
+  "andesi, ebx": [
+    "21de",
+    "23f3"
+  ],
+  "andesi, ecx": [
+    "21ce",
+    "23f1"
+  ],
+  "andesi, edi": [
+    "21fe",
+    "23f7"
+  ],
+  "andesi, edx": [
+    "21d6",
+    "23f2"
+  ],
+  "andesi, esi": [
+    "21f6",
+    "23f6"
+  ],
+  "andesi, esp": [
+    "21e6",
+    "23f4"
+  ],
+  "andesp, eax": [
+    "21c4",
+    "23e0"
+  ],
+  "andesp, ebp": [
+    "21ec",
+    "23e5"
+  ],
+  "andesp, ebx": [
+    "21dc",
+    "23e3"
+  ],
+  "andesp, ecx": [
+    "21cc",
+    "23e1"
+  ],
+  "andesp, edi": [
+    "21fc",
+    "23e7"
+  ],
+  "andesp, edx": [
+    "21d4",
+    "23e2"
+  ],
+  "andesp, esi": [
+    "21f4",
+    "23e6"
+  ],
+  "andesp, esp": [
+    "21e4",
+    "23e4"
+  ],
+  "cdq": [
+    "2699",
+    "2e99",
+    "3699",
+    "3e99",
+    "4099",
+    "4199",
+    "4299",
+    "4399",
+    "4499",
+    "4599",
+    "4699",
+    "4799",
+    "6499",
+    "6599",
+    "6799",
+    "99",
+    "f299",
+    "f399"
+  ],
+  "cdqe": [
+    "4898",
+    "4998",
+    "4a98",
+    "4b98",
+    "4c98",
+    "4d98",
+    "4e98",
+    "4f98"
+  ],
+  "clc": [
+    "26f8",
+    "2ef8",
+    "36f8",
+    "3ef8",
+    "40f8",
+    "41f8",
+    "42f8",
+    "43f8",
+    "44f8",
+    "45f8",
+    "46f8",
+    "47f8",
+    "48f8",
+    "49f8",
+    "4af8",
+    "4bf8",
+    "4cf8",
+    "4df8",
+    "4ef8",
+    "4ff8",
+    "64f8",
+    "65f8",
+    "66f8",
+    "67f8",
+    "f2f8",
+    "f3f8",
+    "f8"
+  ],
+  "cld": [
+    "26fc",
+    "2efc",
+    "36fc",
+    "3efc",
+    "40fc",
+    "41fc",
+    "42fc",
+    "43fc",
+    "44fc",
+    "45fc",
+    "46fc",
+    "47fc",
+    "48fc",
+    "49fc",
+    "4afc",
+    "4bfc",
+    "4cfc",
+    "4dfc",
+    "4efc",
+    "4ffc",
+    "64fc",
+    "65fc",
+    "66fc",
+    "67fc",
+    "f2fc",
+    "f3fc",
+    "fc"
+  ],
+  "cli": [
+    "26fa",
+    "2efa",
+    "36fa",
+    "3efa",
+    "40fa",
+    "41fa",
+    "42fa",
+    "43fa",
+    "44fa",
+    "45fa",
+    "46fa",
+    "47fa",
+    "48fa",
+    "49fa",
+    "4afa",
+    "4bfa",
+    "4cfa",
+    "4dfa",
+    "4efa",
+    "4ffa",
+    "64fa",
+    "65fa",
+    "66fa",
+    "67fa",
+    "f2fa",
+    "f3fa",
+    "fa"
+  ],
+  "cmc": [
+    "26f5",
+    "2ef5",
+    "36f5",
+    "3ef5",
+    "40f5",
+    "41f5",
+    "42f5",
+    "43f5",
+    "44f5",
+    "45f5",
+    "46f5",
+    "47f5",
+    "48f5",
+    "49f5",
+    "4af5",
+    "4bf5",
+    "4cf5",
+    "4df5",
+    "4ef5",
+    "4ff5",
+    "64f5",
+    "65f5",
+    "66f5",
+    "67f5",
+    "f2f5",
+    "f3f5",
+    "f5"
+  ],
+  "cmpah, ah": [
+    "38e4",
+    "3ae4"
+  ],
+  "cmpah, al": [
+    "38c4",
+    "3ae0"
+  ],
+  "cmpah, bh": [
+    "38fc",
+    "3ae7"
+  ],
+  "cmpah, bl": [
+    "38dc",
+    "3ae3"
+  ],
+  "cmpah, ch": [
+    "38ec",
+    "3ae5"
+  ],
+  "cmpah, cl": [
+    "38cc",
+    "3ae1"
+  ],
+  "cmpah, dh": [
+    "38f4",
+    "3ae6"
+  ],
+  "cmpah, dl": [
+    "38d4",
+    "3ae2"
+  ],
+  "cmpal, ah": [
+    "38e0",
+    "3ac4"
+  ],
+  "cmpal, al": [
+    "38c0",
+    "3ac0"
+  ],
+  "cmpal, bh": [
+    "38f8",
+    "3ac7"
+  ],
+  "cmpal, bl": [
+    "38d8",
+    "3ac3"
+  ],
+  "cmpal, ch": [
+    "38e8",
+    "3ac5"
+  ],
+  "cmpal, cl": [
+    "38c8",
+    "3ac1"
+  ],
+  "cmpal, dh": [
+    "38f0",
+    "3ac6"
+  ],
+  "cmpal, dl": [
+    "38d0",
+    "3ac2"
+  ],
+  "cmpbh, ah": [
+    "38e7",
+    "3afc"
+  ],
+  "cmpbh, al": [
+    "38c7",
+    "3af8"
+  ],
+  "cmpbh, bh": [
+    "38ff",
+    "3aff"
+  ],
+  "cmpbh, bl": [
+    "38df",
+    "3afb"
+  ],
+  "cmpbh, ch": [
+    "38ef",
+    "3afd"
+  ],
+  "cmpbh, cl": [
+    "38cf",
+    "3af9"
+  ],
+  "cmpbh, dh": [
+    "38f7",
+    "3afe"
+  ],
+  "cmpbh, dl": [
+    "38d7",
+    "3afa"
+  ],
+  "cmpbl, ah": [
+    "38e3",
+    "3adc"
+  ],
+  "cmpbl, al": [
+    "38c3",
+    "3ad8"
+  ],
+  "cmpbl, bh": [
+    "38fb",
+    "3adf"
+  ],
+  "cmpbl, bl": [
+    "38db",
+    "3adb"
+  ],
+  "cmpbl, ch": [
+    "38eb",
+    "3add"
+  ],
+  "cmpbl, cl": [
+    "38cb",
+    "3ad9"
+  ],
+  "cmpbl, dh": [
+    "38f3",
+    "3ade"
+  ],
+  "cmpbl, dl": [
+    "38d3",
+    "3ada"
+  ],
+  "cmpch, ah": [
+    "38e5",
+    "3aec"
+  ],
+  "cmpch, al": [
+    "38c5",
+    "3ae8"
+  ],
+  "cmpch, bh": [
+    "38fd",
+    "3aef"
+  ],
+  "cmpch, bl": [
+    "38dd",
+    "3aeb"
+  ],
+  "cmpch, ch": [
+    "38ed",
+    "3aed"
+  ],
+  "cmpch, cl": [
+    "38cd",
+    "3ae9"
+  ],
+  "cmpch, dh": [
+    "38f5",
+    "3aee"
+  ],
+  "cmpch, dl": [
+    "38d5",
+    "3aea"
+  ],
+  "cmpcl, ah": [
+    "38e1",
+    "3acc"
+  ],
+  "cmpcl, al": [
+    "38c1",
+    "3ac8"
+  ],
+  "cmpcl, bh": [
+    "38f9",
+    "3acf"
+  ],
+  "cmpcl, bl": [
+    "38d9",
+    "3acb"
+  ],
+  "cmpcl, ch": [
+    "38e9",
+    "3acd"
+  ],
+  "cmpcl, cl": [
+    "38c9",
+    "3ac9"
+  ],
+  "cmpcl, dh": [
+    "38f1",
+    "3ace"
+  ],
+  "cmpcl, dl": [
+    "38d1",
+    "3aca"
+  ],
+  "cmpdh, ah": [
+    "38e6",
+    "3af4"
+  ],
+  "cmpdh, al": [
+    "38c6",
+    "3af0"
+  ],
+  "cmpdh, bh": [
+    "38fe",
+    "3af7"
+  ],
+  "cmpdh, bl": [
+    "38de",
+    "3af3"
+  ],
+  "cmpdh, ch": [
+    "38ee",
+    "3af5"
+  ],
+  "cmpdh, cl": [
+    "38ce",
+    "3af1"
+  ],
+  "cmpdh, dh": [
+    "38f6",
+    "3af6"
+  ],
+  "cmpdh, dl": [
+    "38d6",
+    "3af2"
+  ],
+  "cmpdl, ah": [
+    "38e2",
+    "3ad4"
+  ],
+  "cmpdl, al": [
+    "38c2",
+    "3ad0"
+  ],
+  "cmpdl, bh": [
+    "38fa",
+    "3ad7"
+  ],
+  "cmpdl, bl": [
+    "38da",
+    "3ad3"
+  ],
+  "cmpdl, ch": [
+    "38ea",
+    "3ad5"
+  ],
+  "cmpdl, cl": [
+    "38ca",
+    "3ad1"
+  ],
+  "cmpdl, dh": [
+    "38f2",
+    "3ad6"
+  ],
+  "cmpdl, dl": [
+    "38d2",
+    "3ad2"
+  ],
+  "cmpeax, eax": [
+    "39c0",
+    "3bc0"
+  ],
+  "cmpeax, ebp": [
+    "39e8",
+    "3bc5"
+  ],
+  "cmpeax, ebx": [
+    "39d8",
+    "3bc3"
+  ],
+  "cmpeax, ecx": [
+    "39c8",
+    "3bc1"
+  ],
+  "cmpeax, edi": [
+    "39f8",
+    "3bc7"
+  ],
+  "cmpeax, edx": [
+    "39d0",
+    "3bc2"
+  ],
+  "cmpeax, esi": [
+    "39f0",
+    "3bc6"
+  ],
+  "cmpeax, esp": [
+    "39e0",
+    "3bc4"
+  ],
+  "cmpebp, eax": [
+    "39c5",
+    "3be8"
+  ],
+  "cmpebp, ebp": [
+    "39ed",
+    "3bed"
+  ],
+  "cmpebp, ebx": [
+    "39dd",
+    "3beb"
+  ],
+  "cmpebp, ecx": [
+    "39cd",
+    "3be9"
+  ],
+  "cmpebp, edi": [
+    "39fd",
+    "3bef"
+  ],
+  "cmpebp, edx": [
+    "39d5",
+    "3bea"
+  ],
+  "cmpebp, esi": [
+    "39f5",
+    "3bee"
+  ],
+  "cmpebp, esp": [
+    "39e5",
+    "3bec"
+  ],
+  "cmpebx, eax": [
+    "39c3",
+    "3bd8"
+  ],
+  "cmpebx, ebp": [
+    "39eb",
+    "3bdd"
+  ],
+  "cmpebx, ebx": [
+    "39db",
+    "3bdb"
+  ],
+  "cmpebx, ecx": [
+    "39cb",
+    "3bd9"
+  ],
+  "cmpebx, edi": [
+    "39fb",
+    "3bdf"
+  ],
+  "cmpebx, edx": [
+    "39d3",
+    "3bda"
+  ],
+  "cmpebx, esi": [
+    "39f3",
+    "3bde"
+  ],
+  "cmpebx, esp": [
+    "39e3",
+    "3bdc"
+  ],
+  "cmpecx, eax": [
+    "39c1",
+    "3bc8"
+  ],
+  "cmpecx, ebp": [
+    "39e9",
+    "3bcd"
+  ],
+  "cmpecx, ebx": [
+    "39d9",
+    "3bcb"
+  ],
+  "cmpecx, ecx": [
+    "39c9",
+    "3bc9"
+  ],
+  "cmpecx, edi": [
+    "39f9",
+    "3bcf"
+  ],
+  "cmpecx, edx": [
+    "39d1",
+    "3bca"
+  ],
+  "cmpecx, esi": [
+    "39f1",
+    "3bce"
+  ],
+  "cmpecx, esp": [
+    "39e1",
+    "3bcc"
+  ],
+  "cmpedi, eax": [
+    "39c7",
+    "3bf8"
+  ],
+  "cmpedi, ebp": [
+    "39ef",
+    "3bfd"
+  ],
+  "cmpedi, ebx": [
+    "39df",
+    "3bfb"
+  ],
+  "cmpedi, ecx": [
+    "39cf",
+    "3bf9"
+  ],
+  "cmpedi, edi": [
+    "39ff",
+    "3bff"
+  ],
+  "cmpedi, edx": [
+    "39d7",
+    "3bfa"
+  ],
+  "cmpedi, esi": [
+    "39f7",
+    "3bfe"
+  ],
+  "cmpedi, esp": [
+    "39e7",
+    "3bfc"
+  ],
+  "cmpedx, eax": [
+    "39c2",
+    "3bd0"
+  ],
+  "cmpedx, ebp": [
+    "39ea",
+    "3bd5"
+  ],
+  "cmpedx, ebx": [
+    "39da",
+    "3bd3"
+  ],
+  "cmpedx, ecx": [
+    "39ca",
+    "3bd1"
+  ],
+  "cmpedx, edi": [
+    "39fa",
+    "3bd7"
+  ],
+  "cmpedx, edx": [
+    "39d2",
+    "3bd2"
+  ],
+  "cmpedx, esi": [
+    "39f2",
+    "3bd6"
+  ],
+  "cmpedx, esp": [
+    "39e2",
+    "3bd4"
+  ],
+  "cmpesi, eax": [
+    "39c6",
+    "3bf0"
+  ],
+  "cmpesi, ebp": [
+    "39ee",
+    "3bf5"
+  ],
+  "cmpesi, ebx": [
+    "39de",
+    "3bf3"
+  ],
+  "cmpesi, ecx": [
+    "39ce",
+    "3bf1"
+  ],
+  "cmpesi, edi": [
+    "39fe",
+    "3bf7"
+  ],
+  "cmpesi, edx": [
+    "39d6",
+    "3bf2"
+  ],
+  "cmpesi, esi": [
+    "39f6",
+    "3bf6"
+  ],
+  "cmpesi, esp": [
+    "39e6",
+    "3bf4"
+  ],
+  "cmpesp, eax": [
+    "39c4",
+    "3be0"
+  ],
+  "cmpesp, ebp": [
+    "39ec",
+    "3be5"
+  ],
+  "cmpesp, ebx": [
+    "39dc",
+    "3be3"
+  ],
+  "cmpesp, ecx": [
+    "39cc",
+    "3be1"
+  ],
+  "cmpesp, edi": [
+    "39fc",
+    "3be7"
+  ],
+  "cmpesp, edx": [
+    "39d4",
+    "3be2"
+  ],
+  "cmpesp, esi": [
+    "39f4",
+    "3be6"
+  ],
+  "cmpesp, esp": [
+    "39e4",
+    "3be4"
+  ],
+  "cmpsbbyte ptr [rsi], byte ptr [rdi]": [
+    "40a6",
+    "41a6",
+    "42a6",
+    "43a6",
+    "44a6",
+    "45a6",
+    "46a6",
+    "47a6",
+    "48a6",
+    "49a6",
+    "4aa6",
+    "4ba6",
+    "4ca6",
+    "4da6",
+    "4ea6",
+    "4fa6",
+    "66a6",
+    "a6"
+  ],
+  "cmpsddword ptr [rsi], dword ptr [rdi]": [
+    "40a7",
+    "41a7",
+    "42a7",
+    "43a7",
+    "44a7",
+    "45a7",
+    "46a7",
+    "47a7",
+    "a7"
+  ],
+  "cmpsqqword ptr [rsi], qword ptr [rdi]": [
+    "48a7",
+    "49a7",
+    "4aa7",
+    "4ba7",
+    "4ca7",
+    "4da7",
+    "4ea7",
+    "4fa7"
+  ],
+  "cqo": [
+    "4899",
+    "4999",
+    "4a99",
+    "4b99",
+    "4c99",
+    "4d99",
+    "4e99",
+    "4f99"
+  ],
+  "cwde": [
+    "2698",
+    "2e98",
+    "3698",
+    "3e98",
+    "4098",
+    "4198",
+    "4298",
+    "4398",
+    "4498",
+    "4598",
+    "4698",
+    "4798",
+    "6498",
+    "6598",
+    "6798",
+    "98",
+    "f298",
+    "f398"
+  ],
+  "hlt": [
+    "26f4",
+    "2ef4",
+    "36f4",
+    "3ef4",
+    "40f4",
+    "41f4",
+    "42f4",
+    "43f4",
+    "44f4",
+    "45f4",
+    "46f4",
+    "47f4",
+    "48f4",
+    "49f4",
+    "4af4",
+    "4bf4",
+    "4cf4",
+    "4df4",
+    "4ef4",
+    "4ff4",
+    "64f4",
+    "65f4",
+    "66f4",
+    "67f4",
+    "f2f4",
+    "f3f4",
+    "f4"
+  ],
+  "inal, dx": [
+    "26ec",
+    "2eec",
+    "36ec",
+    "3eec",
+    "40ec",
+    "41ec",
+    "42ec",
+    "43ec",
+    "44ec",
+    "45ec",
+    "46ec",
+    "47ec",
+    "48ec",
+    "49ec",
+    "4aec",
+    "4bec",
+    "4cec",
+    "4dec",
+    "4eec",
+    "4fec",
+    "64ec",
+    "65ec",
+    "66ec",
+    "67ec",
+    "ec",
+    "f2ec",
+    "f3ec"
+  ],
+  "ineax, dx": [
+    "26ed",
+    "2eed",
+    "36ed",
+    "3eed",
+    "40ed",
+    "41ed",
+    "42ed",
+    "43ed",
+    "44ed",
+    "45ed",
+    "46ed",
+    "47ed",
+    "48ed",
+    "49ed",
+    "4aed",
+    "4bed",
+    "4ced",
+    "4ded",
+    "4eed",
+    "4fed",
+    "64ed",
+    "65ed",
+    "67ed",
+    "ed",
+    "f2ed",
+    "f3ed"
+  ],
+  "insbbyte ptr [rdi], dx": [
+    "266c",
+    "2e6c",
+    "366c",
+    "3e6c",
+    "406c",
+    "416c",
+    "426c",
+    "436c",
+    "446c",
+    "456c",
+    "466c",
+    "476c",
+    "486c",
+    "496c",
+    "4a6c",
+    "4b6c",
+    "4c6c",
+    "4d6c",
+    "4e6c",
+    "4f6c",
+    "646c",
+    "656c",
+    "666c",
+    "6c"
+  ],
+  "insddword ptr [rdi], dx": [
+    "266d",
+    "2e6d",
+    "366d",
+    "3e6d",
+    "406d",
+    "416d",
+    "426d",
+    "436d",
+    "446d",
+    "456d",
+    "466d",
+    "476d",
+    "486d",
+    "496d",
+    "4a6d",
+    "4b6d",
+    "4c6d",
+    "4d6d",
+    "4e6d",
+    "4f6d",
+    "646d",
+    "656d",
+    "6d"
+  ],
+  "int1": [
+    "26f1",
+    "2ef1",
+    "36f1",
+    "3ef1",
+    "40f1",
+    "41f1",
+    "42f1",
+    "43f1",
+    "44f1",
+    "45f1",
+    "46f1",
+    "47f1",
+    "48f1",
+    "49f1",
+    "4af1",
+    "4bf1",
+    "4cf1",
+    "4df1",
+    "4ef1",
+    "4ff1",
+    "64f1",
+    "65f1",
+    "66f1",
+    "67f1",
+    "cd01",
+    "f1",
+    "f2f1",
+    "f3f1"
+  ],
+  "int3": [
+    "26cc",
+    "2ecc",
+    "36cc",
+    "3ecc",
+    "40cc",
+    "41cc",
+    "42cc",
+    "43cc",
+    "44cc",
+    "45cc",
+    "46cc",
+    "47cc",
+    "48cc",
+    "49cc",
+    "4acc",
+    "4bcc",
+    "4ccc",
+    "4dcc",
+    "4ecc",
+    "4fcc",
+    "64cc",
+    "65cc",
+    "66cc",
+    "67cc",
+    "cc",
+    "cd03",
+    "f2cc",
+    "f3cc"
+  ],
+  "iretd": [
+    "26cf",
+    "2ecf",
+    "36cf",
+    "3ecf",
+    "40cf",
+    "41cf",
+    "42cf",
+    "43cf",
+    "44cf",
+    "45cf",
+    "46cf",
+    "47cf",
+    "64cf",
+    "65cf",
+    "67cf",
+    "cf",
+    "f2cf",
+    "f3cf"
+  ],
+  "iretq": [
+    "48cf",
+    "49cf",
+    "4acf",
+    "4bcf",
+    "4ccf",
+    "4dcf",
+    "4ecf",
+    "4fcf"
+  ],
+  "lahf": [
+    "269f",
+    "2e9f",
+    "369f",
+    "3e9f",
+    "409f",
+    "419f",
+    "429f",
+    "439f",
+    "449f",
+    "459f",
+    "469f",
+    "479f",
+    "489f",
+    "499f",
+    "4a9f",
+    "4b9f",
+    "4c9f",
+    "4d9f",
+    "4e9f",
+    "4f9f",
+    "649f",
+    "659f",
+    "669f",
+    "679f",
+    "9f",
+    "f29f",
+    "f39f"
+  ],
+  "leave": [
+    "26c9",
+    "2ec9",
+    "36c9",
+    "3ec9",
+    "40c9",
+    "41c9",
+    "42c9",
+    "43c9",
+    "44c9",
+    "45c9",
+    "46c9",
+    "47c9",
+    "48c9",
+    "49c9",
+    "4ac9",
+    "4bc9",
+    "4cc9",
+    "4dc9",
+    "4ec9",
+    "4fc9",
+    "64c9",
+    "65c9",
+    "66c9",
+    "67c9",
+    "c9",
+    "f2c9",
+    "f3c9"
+  ],
+  "lodsbal, byte ptr [rsi]": [
+    "40ac",
+    "41ac",
+    "42ac",
+    "43ac",
+    "44ac",
+    "45ac",
+    "46ac",
+    "47ac",
+    "48ac",
+    "49ac",
+    "4aac",
+    "4bac",
+    "4cac",
+    "4dac",
+    "4eac",
+    "4fac",
+    "66ac",
+    "ac"
+  ],
+  "lodsdeax, dword ptr [rsi]": [
+    "40ad",
+    "41ad",
+    "42ad",
+    "43ad",
+    "44ad",
+    "45ad",
+    "46ad",
+    "47ad",
+    "ad"
+  ],
+  "lodsqrax, qword ptr [rsi]": [
+    "48ad",
+    "49ad",
+    "4aad",
+    "4bad",
+    "4cad",
+    "4dad",
+    "4ead",
+    "4fad"
+  ],
+  "movah, ah": [
+    "88e4",
+    "8ae4"
+  ],
+  "movah, al": [
+    "88c4",
+    "8ae0"
+  ],
+  "movah, bh": [
+    "88fc",
+    "8ae7"
+  ],
+  "movah, bl": [
+    "88dc",
+    "8ae3"
+  ],
+  "movah, ch": [
+    "88ec",
+    "8ae5"
+  ],
+  "movah, cl": [
+    "88cc",
+    "8ae1"
+  ],
+  "movah, dh": [
+    "88f4",
+    "8ae6"
+  ],
+  "movah, dl": [
+    "88d4",
+    "8ae2"
+  ],
+  "moval, ah": [
+    "88e0",
+    "8ac4"
+  ],
+  "moval, al": [
+    "88c0",
+    "8ac0"
+  ],
+  "moval, bh": [
+    "88f8",
+    "8ac7"
+  ],
+  "moval, bl": [
+    "88d8",
+    "8ac3"
+  ],
+  "moval, ch": [
+    "88e8",
+    "8ac5"
+  ],
+  "moval, cl": [
+    "88c8",
+    "8ac1"
+  ],
+  "moval, dh": [
+    "88f0",
+    "8ac6"
+  ],
+  "moval, dl": [
+    "88d0",
+    "8ac2"
+  ],
+  "movbh, ah": [
+    "88e7",
+    "8afc"
+  ],
+  "movbh, al": [
+    "88c7",
+    "8af8"
+  ],
+  "movbh, bh": [
+    "88ff",
+    "8aff"
+  ],
+  "movbh, bl": [
+    "88df",
+    "8afb"
+  ],
+  "movbh, ch": [
+    "88ef",
+    "8afd"
+  ],
+  "movbh, cl": [
+    "88cf",
+    "8af9"
+  ],
+  "movbh, dh": [
+    "88f7",
+    "8afe"
+  ],
+  "movbh, dl": [
+    "88d7",
+    "8afa"
+  ],
+  "movbl, ah": [
+    "88e3",
+    "8adc"
+  ],
+  "movbl, al": [
+    "88c3",
+    "8ad8"
+  ],
+  "movbl, bh": [
+    "88fb",
+    "8adf"
+  ],
+  "movbl, bl": [
+    "88db",
+    "8adb"
+  ],
+  "movbl, ch": [
+    "88eb",
+    "8add"
+  ],
+  "movbl, cl": [
+    "88cb",
+    "8ad9"
+  ],
+  "movbl, dh": [
+    "88f3",
+    "8ade"
+  ],
+  "movbl, dl": [
+    "88d3",
+    "8ada"
+  ],
+  "movch, ah": [
+    "88e5",
+    "8aec"
+  ],
+  "movch, al": [
+    "88c5",
+    "8ae8"
+  ],
+  "movch, bh": [
+    "88fd",
+    "8aef"
+  ],
+  "movch, bl": [
+    "88dd",
+    "8aeb"
+  ],
+  "movch, ch": [
+    "88ed",
+    "8aed"
+  ],
+  "movch, cl": [
+    "88cd",
+    "8ae9"
+  ],
+  "movch, dh": [
+    "88f5",
+    "8aee"
+  ],
+  "movch, dl": [
+    "88d5",
+    "8aea"
+  ],
+  "movcl, ah": [
+    "88e1",
+    "8acc"
+  ],
+  "movcl, al": [
+    "88c1",
+    "8ac8"
+  ],
+  "movcl, bh": [
+    "88f9",
+    "8acf"
+  ],
+  "movcl, bl": [
+    "88d9",
+    "8acb"
+  ],
+  "movcl, ch": [
+    "88e9",
+    "8acd"
+  ],
+  "movcl, cl": [
+    "88c9",
+    "8ac9"
+  ],
+  "movcl, dh": [
+    "88f1",
+    "8ace"
+  ],
+  "movcl, dl": [
+    "88d1",
+    "8aca"
+  ],
+  "movdh, ah": [
+    "88e6",
+    "8af4"
+  ],
+  "movdh, al": [
+    "88c6",
+    "8af0"
+  ],
+  "movdh, bh": [
+    "88fe",
+    "8af7"
+  ],
+  "movdh, bl": [
+    "88de",
+    "8af3"
+  ],
+  "movdh, ch": [
+    "88ee",
+    "8af5"
+  ],
+  "movdh, cl": [
+    "88ce",
+    "8af1"
+  ],
+  "movdh, dh": [
+    "88f6",
+    "8af6"
+  ],
+  "movdh, dl": [
+    "88d6",
+    "8af2"
+  ],
+  "movdl, ah": [
+    "88e2",
+    "8ad4"
+  ],
+  "movdl, al": [
+    "88c2",
+    "8ad0"
+  ],
+  "movdl, bh": [
+    "88fa",
+    "8ad7"
+  ],
+  "movdl, bl": [
+    "88da",
+    "8ad3"
+  ],
+  "movdl, ch": [
+    "88ea",
+    "8ad5"
+  ],
+  "movdl, cl": [
+    "88ca",
+    "8ad1"
+  ],
+  "movdl, dh": [
+    "88f2",
+    "8ad6"
+  ],
+  "movdl, dl": [
+    "88d2",
+    "8ad2"
+  ],
+  "moveax, eax": [
+    "89c0",
+    "8bc0"
+  ],
+  "moveax, ebp": [
+    "89e8",
+    "8bc5"
+  ],
+  "moveax, ebx": [
+    "89d8",
+    "8bc3"
+  ],
+  "moveax, ecx": [
+    "89c8",
+    "8bc1"
+  ],
+  "moveax, edi": [
+    "89f8",
+    "8bc7"
+  ],
+  "moveax, edx": [
+    "89d0",
+    "8bc2"
+  ],
+  "moveax, esi": [
+    "89f0",
+    "8bc6"
+  ],
+  "moveax, esp": [
+    "89e0",
+    "8bc4"
+  ],
+  "movebp, eax": [
+    "89c5",
+    "8be8"
+  ],
+  "movebp, ebp": [
+    "89ed",
+    "8bed"
+  ],
+  "movebp, ebx": [
+    "89dd",
+    "8beb"
+  ],
+  "movebp, ecx": [
+    "89cd",
+    "8be9"
+  ],
+  "movebp, edi": [
+    "89fd",
+    "8bef"
+  ],
+  "movebp, edx": [
+    "89d5",
+    "8bea"
+  ],
+  "movebp, esi": [
+    "89f5",
+    "8bee"
+  ],
+  "movebp, esp": [
+    "89e5",
+    "8bec"
+  ],
+  "movebx, eax": [
+    "89c3",
+    "8bd8"
+  ],
+  "movebx, ebp": [
+    "89eb",
+    "8bdd"
+  ],
+  "movebx, ebx": [
+    "89db",
+    "8bdb"
+  ],
+  "movebx, ecx": [
+    "89cb",
+    "8bd9"
+  ],
+  "movebx, edi": [
+    "89fb",
+    "8bdf"
+  ],
+  "movebx, edx": [
+    "89d3",
+    "8bda"
+  ],
+  "movebx, esi": [
+    "89f3",
+    "8bde"
+  ],
+  "movebx, esp": [
+    "89e3",
+    "8bdc"
+  ],
+  "movecx, eax": [
+    "89c1",
+    "8bc8"
+  ],
+  "movecx, ebp": [
+    "89e9",
+    "8bcd"
+  ],
+  "movecx, ebx": [
+    "89d9",
+    "8bcb"
+  ],
+  "movecx, ecx": [
+    "89c9",
+    "8bc9"
+  ],
+  "movecx, edi": [
+    "89f9",
+    "8bcf"
+  ],
+  "movecx, edx": [
+    "89d1",
+    "8bca"
+  ],
+  "movecx, esi": [
+    "89f1",
+    "8bce"
+  ],
+  "movecx, esp": [
+    "89e1",
+    "8bcc"
+  ],
+  "movedi, eax": [
+    "89c7",
+    "8bf8"
+  ],
+  "movedi, ebp": [
+    "89ef",
+    "8bfd"
+  ],
+  "movedi, ebx": [
+    "89df",
+    "8bfb"
+  ],
+  "movedi, ecx": [
+    "89cf",
+    "8bf9"
+  ],
+  "movedi, edi": [
+    "89ff",
+    "8bff"
+  ],
+  "movedi, edx": [
+    "89d7",
+    "8bfa"
+  ],
+  "movedi, esi": [
+    "89f7",
+    "8bfe"
+  ],
+  "movedi, esp": [
+    "89e7",
+    "8bfc"
+  ],
+  "movedx, eax": [
+    "89c2",
+    "8bd0"
+  ],
+  "movedx, ebp": [
+    "89ea",
+    "8bd5"
+  ],
+  "movedx, ebx": [
+    "89da",
+    "8bd3"
+  ],
+  "movedx, ecx": [
+    "89ca",
+    "8bd1"
+  ],
+  "movedx, edi": [
+    "89fa",
+    "8bd7"
+  ],
+  "movedx, edx": [
+    "89d2",
+    "8bd2"
+  ],
+  "movedx, esi": [
+    "89f2",
+    "8bd6"
+  ],
+  "movedx, esp": [
+    "89e2",
+    "8bd4"
+  ],
+  "movesi, eax": [
+    "89c6",
+    "8bf0"
+  ],
+  "movesi, ebp": [
+    "89ee",
+    "8bf5"
+  ],
+  "movesi, ebx": [
+    "89de",
+    "8bf3"
+  ],
+  "movesi, ecx": [
+    "89ce",
+    "8bf1"
+  ],
+  "movesi, edi": [
+    "89fe",
+    "8bf7"
+  ],
+  "movesi, edx": [
+    "89d6",
+    "8bf2"
+  ],
+  "movesi, esi": [
+    "89f6",
+    "8bf6"
+  ],
+  "movesi, esp": [
+    "89e6",
+    "8bf4"
+  ],
+  "movesp, eax": [
+    "89c4",
+    "8be0"
+  ],
+  "movesp, ebp": [
+    "89ec",
+    "8be5"
+  ],
+  "movesp, ebx": [
+    "89dc",
+    "8be3"
+  ],
+  "movesp, ecx": [
+    "89cc",
+    "8be1"
+  ],
+  "movesp, edi": [
+    "89fc",
+    "8be7"
+  ],
+  "movesp, edx": [
+    "89d4",
+    "8be2"
+  ],
+  "movesp, esi": [
+    "89f4",
+    "8be6"
+  ],
+  "movesp, esp": [
+    "89e4",
+    "8be4"
+  ],
+  "movsbbyte ptr [rdi], byte ptr [rsi]": [
+    "40a4",
+    "41a4",
+    "42a4",
+    "43a4",
+    "44a4",
+    "45a4",
+    "46a4",
+    "47a4",
+    "48a4",
+    "49a4",
+    "4aa4",
+    "4ba4",
+    "4ca4",
+    "4da4",
+    "4ea4",
+    "4fa4",
+    "66a4",
+    "a4"
+  ],
+  "movsddword ptr [rdi], dword ptr [rsi]": [
+    "40a5",
+    "41a5",
+    "42a5",
+    "43a5",
+    "44a5",
+    "45a5",
+    "46a5",
+    "47a5",
+    "a5",
+    "f2a5"
+  ],
+  "movsqqword ptr [rdi], qword ptr [rsi]": [
+    "48a5",
+    "49a5",
+    "4aa5",
+    "4ba5",
+    "4ca5",
+    "4da5",
+    "4ea5",
+    "4fa5"
+  ],
+  "nop": [
+    "2690",
+    "2e90",
+    "3690",
+    "3e90",
+    "4090",
+    "4290",
+    "4490",
+    "4690",
+    "4890",
+    "4a90",
+    "4c90",
+    "4e90",
+    "6490",
+    "6590",
+    "6690",
+    "6790",
+    "90",
+    "f290"
+  ],
+  "orah, ah": [
+    "08e4",
+    "0ae4"
+  ],
+  "orah, al": [
+    "08c4",
+    "0ae0"
+  ],
+  "orah, bh": [
+    "08fc",
+    "0ae7"
+  ],
+  "orah, bl": [
+    "08dc",
+    "0ae3"
+  ],
+  "orah, ch": [
+    "08ec",
+    "0ae5"
+  ],
+  "orah, cl": [
+    "08cc",
+    "0ae1"
+  ],
+  "orah, dh": [
+    "08f4",
+    "0ae6"
+  ],
+  "orah, dl": [
+    "08d4",
+    "0ae2"
+  ],
+  "oral, ah": [
+    "08e0",
+    "0ac4"
+  ],
+  "oral, al": [
+    "08c0",
+    "0ac0"
+  ],
+  "oral, bh": [
+    "08f8",
+    "0ac7"
+  ],
+  "oral, bl": [
+    "08d8",
+    "0ac3"
+  ],
+  "oral, ch": [
+    "08e8",
+    "0ac5"
+  ],
+  "oral, cl": [
+    "08c8",
+    "0ac1"
+  ],
+  "oral, dh": [
+    "08f0",
+    "0ac6"
+  ],
+  "oral, dl": [
+    "08d0",
+    "0ac2"
+  ],
+  "orbh, ah": [
+    "08e7",
+    "0afc"
+  ],
+  "orbh, al": [
+    "08c7",
+    "0af8"
+  ],
+  "orbh, bh": [
+    "08ff",
+    "0aff"
+  ],
+  "orbh, bl": [
+    "08df",
+    "0afb"
+  ],
+  "orbh, ch": [
+    "08ef",
+    "0afd"
+  ],
+  "orbh, cl": [
+    "08cf",
+    "0af9"
+  ],
+  "orbh, dh": [
+    "08f7",
+    "0afe"
+  ],
+  "orbh, dl": [
+    "08d7",
+    "0afa"
+  ],
+  "orbl, ah": [
+    "08e3",
+    "0adc"
+  ],
+  "orbl, al": [
+    "08c3",
+    "0ad8"
+  ],
+  "orbl, bh": [
+    "08fb",
+    "0adf"
+  ],
+  "orbl, bl": [
+    "08db",
+    "0adb"
+  ],
+  "orbl, ch": [
+    "08eb",
+    "0add"
+  ],
+  "orbl, cl": [
+    "08cb",
+    "0ad9"
+  ],
+  "orbl, dh": [
+    "08f3",
+    "0ade"
+  ],
+  "orbl, dl": [
+    "08d3",
+    "0ada"
+  ],
+  "orch, ah": [
+    "08e5",
+    "0aec"
+  ],
+  "orch, al": [
+    "08c5",
+    "0ae8"
+  ],
+  "orch, bh": [
+    "08fd",
+    "0aef"
+  ],
+  "orch, bl": [
+    "08dd",
+    "0aeb"
+  ],
+  "orch, ch": [
+    "08ed",
+    "0aed"
+  ],
+  "orch, cl": [
+    "08cd",
+    "0ae9"
+  ],
+  "orch, dh": [
+    "08f5",
+    "0aee"
+  ],
+  "orch, dl": [
+    "08d5",
+    "0aea"
+  ],
+  "orcl, ah": [
+    "08e1",
+    "0acc"
+  ],
+  "orcl, al": [
+    "08c1",
+    "0ac8"
+  ],
+  "orcl, bh": [
+    "08f9",
+    "0acf"
+  ],
+  "orcl, bl": [
+    "08d9",
+    "0acb"
+  ],
+  "orcl, ch": [
+    "08e9",
+    "0acd"
+  ],
+  "orcl, cl": [
+    "08c9",
+    "0ac9"
+  ],
+  "orcl, dh": [
+    "08f1",
+    "0ace"
+  ],
+  "orcl, dl": [
+    "08d1",
+    "0aca"
+  ],
+  "ordh, ah": [
+    "08e6",
+    "0af4"
+  ],
+  "ordh, al": [
+    "08c6",
+    "0af0"
+  ],
+  "ordh, bh": [
+    "08fe",
+    "0af7"
+  ],
+  "ordh, bl": [
+    "08de",
+    "0af3"
+  ],
+  "ordh, ch": [
+    "08ee",
+    "0af5"
+  ],
+  "ordh, cl": [
+    "08ce",
+    "0af1"
+  ],
+  "ordh, dh": [
+    "08f6",
+    "0af6"
+  ],
+  "ordh, dl": [
+    "08d6",
+    "0af2"
+  ],
+  "ordl, ah": [
+    "08e2",
+    "0ad4"
+  ],
+  "ordl, al": [
+    "08c2",
+    "0ad0"
+  ],
+  "ordl, bh": [
+    "08fa",
+    "0ad7"
+  ],
+  "ordl, bl": [
+    "08da",
+    "0ad3"
+  ],
+  "ordl, ch": [
+    "08ea",
+    "0ad5"
+  ],
+  "ordl, cl": [
+    "08ca",
+    "0ad1"
+  ],
+  "ordl, dh": [
+    "08f2",
+    "0ad6"
+  ],
+  "ordl, dl": [
+    "08d2",
+    "0ad2"
+  ],
+  "oreax, eax": [
+    "09c0",
+    "0bc0"
+  ],
+  "oreax, ebp": [
+    "09e8",
+    "0bc5"
+  ],
+  "oreax, ebx": [
+    "09d8",
+    "0bc3"
+  ],
+  "oreax, ecx": [
+    "09c8",
+    "0bc1"
+  ],
+  "oreax, edi": [
+    "09f8",
+    "0bc7"
+  ],
+  "oreax, edx": [
+    "09d0",
+    "0bc2"
+  ],
+  "oreax, esi": [
+    "09f0",
+    "0bc6"
+  ],
+  "oreax, esp": [
+    "09e0",
+    "0bc4"
+  ],
+  "orebp, eax": [
+    "09c5",
+    "0be8"
+  ],
+  "orebp, ebp": [
+    "09ed",
+    "0bed"
+  ],
+  "orebp, ebx": [
+    "09dd",
+    "0beb"
+  ],
+  "orebp, ecx": [
+    "09cd",
+    "0be9"
+  ],
+  "orebp, edi": [
+    "09fd",
+    "0bef"
+  ],
+  "orebp, edx": [
+    "09d5",
+    "0bea"
+  ],
+  "orebp, esi": [
+    "09f5",
+    "0bee"
+  ],
+  "orebp, esp": [
+    "09e5",
+    "0bec"
+  ],
+  "orebx, eax": [
+    "09c3",
+    "0bd8"
+  ],
+  "orebx, ebp": [
+    "09eb",
+    "0bdd"
+  ],
+  "orebx, ebx": [
+    "09db",
+    "0bdb"
+  ],
+  "orebx, ecx": [
+    "09cb",
+    "0bd9"
+  ],
+  "orebx, edi": [
+    "09fb",
+    "0bdf"
+  ],
+  "orebx, edx": [
+    "09d3",
+    "0bda"
+  ],
+  "orebx, esi": [
+    "09f3",
+    "0bde"
+  ],
+  "orebx, esp": [
+    "09e3",
+    "0bdc"
+  ],
+  "orecx, eax": [
+    "09c1",
+    "0bc8"
+  ],
+  "orecx, ebp": [
+    "09e9",
+    "0bcd"
+  ],
+  "orecx, ebx": [
+    "09d9",
+    "0bcb"
+  ],
+  "orecx, ecx": [
+    "09c9",
+    "0bc9"
+  ],
+  "orecx, edi": [
+    "09f9",
+    "0bcf"
+  ],
+  "orecx, edx": [
+    "09d1",
+    "0bca"
+  ],
+  "orecx, esi": [
+    "09f1",
+    "0bce"
+  ],
+  "orecx, esp": [
+    "09e1",
+    "0bcc"
+  ],
+  "oredi, eax": [
+    "09c7",
+    "0bf8"
+  ],
+  "oredi, ebp": [
+    "09ef",
+    "0bfd"
+  ],
+  "oredi, ebx": [
+    "09df",
+    "0bfb"
+  ],
+  "oredi, ecx": [
+    "09cf",
+    "0bf9"
+  ],
+  "oredi, edi": [
+    "09ff",
+    "0bff"
+  ],
+  "oredi, edx": [
+    "09d7",
+    "0bfa"
+  ],
+  "oredi, esi": [
+    "09f7",
+    "0bfe"
+  ],
+  "oredi, esp": [
+    "09e7",
+    "0bfc"
+  ],
+  "oredx, eax": [
+    "09c2",
+    "0bd0"
+  ],
+  "oredx, ebp": [
+    "09ea",
+    "0bd5"
+  ],
+  "oredx, ebx": [
+    "09da",
+    "0bd3"
+  ],
+  "oredx, ecx": [
+    "09ca",
+    "0bd1"
+  ],
+  "oredx, edi": [
+    "09fa",
+    "0bd7"
+  ],
+  "oredx, edx": [
+    "09d2",
+    "0bd2"
+  ],
+  "oredx, esi": [
+    "09f2",
+    "0bd6"
+  ],
+  "oredx, esp": [
+    "09e2",
+    "0bd4"
+  ],
+  "oresi, eax": [
+    "09c6",
+    "0bf0"
+  ],
+  "oresi, ebp": [
+    "09ee",
+    "0bf5"
+  ],
+  "oresi, ebx": [
+    "09de",
+    "0bf3"
+  ],
+  "oresi, ecx": [
+    "09ce",
+    "0bf1"
+  ],
+  "oresi, edi": [
+    "09fe",
+    "0bf7"
+  ],
+  "oresi, edx": [
+    "09d6",
+    "0bf2"
+  ],
+  "oresi, esi": [
+    "09f6",
+    "0bf6"
+  ],
+  "oresi, esp": [
+    "09e6",
+    "0bf4"
+  ],
+  "oresp, eax": [
+    "09c4",
+    "0be0"
+  ],
+  "oresp, ebp": [
+    "09ec",
+    "0be5"
+  ],
+  "oresp, ebx": [
+    "09dc",
+    "0be3"
+  ],
+  "oresp, ecx": [
+    "09cc",
+    "0be1"
+  ],
+  "oresp, edi": [
+    "09fc",
+    "0be7"
+  ],
+  "oresp, edx": [
+    "09d4",
+    "0be2"
+  ],
+  "oresp, esi": [
+    "09f4",
+    "0be6"
+  ],
+  "oresp, esp": [
+    "09e4",
+    "0be4"
+  ],
+  "outdx, al": [
+    "26ee",
+    "2eee",
+    "36ee",
+    "3eee",
+    "40ee",
+    "41ee",
+    "42ee",
+    "43ee",
+    "44ee",
+    "45ee",
+    "46ee",
+    "47ee",
+    "48ee",
+    "49ee",
+    "4aee",
+    "4bee",
+    "4cee",
+    "4dee",
+    "4eee",
+    "4fee",
+    "64ee",
+    "65ee",
+    "66ee",
+    "67ee",
+    "ee",
+    "f2ee",
+    "f3ee"
+  ],
+  "outdx, eax": [
+    "26ef",
+    "2eef",
+    "36ef",
+    "3eef",
+    "40ef",
+    "41ef",
+    "42ef",
+    "43ef",
+    "44ef",
+    "45ef",
+    "46ef",
+    "47ef",
+    "48ef",
+    "49ef",
+    "4aef",
+    "4bef",
+    "4cef",
+    "4def",
+    "4eef",
+    "4fef",
+    "64ef",
+    "65ef",
+    "67ef",
+    "ef",
+    "f2ef",
+    "f3ef"
+  ],
+  "outsbdx, byte ptr [rsi]": [
+    "406e",
+    "416e",
+    "426e",
+    "436e",
+    "446e",
+    "456e",
+    "466e",
+    "476e",
+    "486e",
+    "496e",
+    "4a6e",
+    "4b6e",
+    "4c6e",
+    "4d6e",
+    "4e6e",
+    "4f6e",
+    "666e",
+    "6e"
+  ],
+  "outsddx, dword ptr [rsi]": [
+    "406f",
+    "416f",
+    "426f",
+    "436f",
+    "446f",
+    "456f",
+    "466f",
+    "476f",
+    "486f",
+    "496f",
+    "4a6f",
+    "4b6f",
+    "4c6f",
+    "4d6f",
+    "4e6f",
+    "4f6f",
+    "6f"
+  ],
+  "popfq": [
+    "269d",
+    "2e9d",
+    "369d",
+    "3e9d",
+    "409d",
+    "419d",
+    "429d",
+    "439d",
+    "449d",
+    "459d",
+    "469d",
+    "479d",
+    "489d",
+    "499d",
+    "4a9d",
+    "4b9d",
+    "4c9d",
+    "4d9d",
+    "4e9d",
+    "4f9d",
+    "649d",
+    "659d",
+    "679d",
+    "9d",
+    "f29d",
+    "f39d"
+  ],
+  "popr10": [
+    "415a",
+    "435a",
+    "455a",
+    "475a",
+    "495a",
+    "4b5a",
+    "4d5a",
+    "4f5a"
+  ],
+  "popr11": [
+    "415b",
+    "435b",
+    "455b",
+    "475b",
+    "495b",
+    "4b5b",
+    "4d5b",
+    "4f5b"
+  ],
+  "popr12": [
+    "415c",
+    "435c",
+    "455c",
+    "475c",
+    "495c",
+    "4b5c",
+    "4d5c",
+    "4f5c"
+  ],
+  "popr13": [
+    "415d",
+    "435d",
+    "455d",
+    "475d",
+    "495d",
+    "4b5d",
+    "4d5d",
+    "4f5d"
+  ],
+  "popr14": [
+    "415e",
+    "435e",
+    "455e",
+    "475e",
+    "495e",
+    "4b5e",
+    "4d5e",
+    "4f5e"
+  ],
+  "popr15": [
+    "415f",
+    "435f",
+    "455f",
+    "475f",
+    "495f",
+    "4b5f",
+    "4d5f",
+    "4f5f"
+  ],
+  "popr8": [
+    "4158",
+    "4358",
+    "4558",
+    "4758",
+    "4958",
+    "4b58",
+    "4d58",
+    "4f58"
+  ],
+  "popr9": [
+    "4159",
+    "4359",
+    "4559",
+    "4759",
+    "4959",
+    "4b59",
+    "4d59",
+    "4f59"
+  ],
+  "poprax": [
+    "2658",
+    "2e58",
+    "3658",
+    "3e58",
+    "4058",
+    "4258",
+    "4458",
+    "4658",
+    "4858",
+    "4a58",
+    "4c58",
+    "4e58",
+    "58",
+    "6458",
+    "6558",
+    "6758",
+    "8fc0",
+    "f258",
+    "f358"
+  ],
+  "poprbp": [
+    "265d",
+    "2e5d",
+    "365d",
+    "3e5d",
+    "405d",
+    "425d",
+    "445d",
+    "465d",
+    "485d",
+    "4a5d",
+    "4c5d",
+    "4e5d",
+    "5d",
+    "645d",
+    "655d",
+    "675d",
+    "8fc5",
+    "f25d",
+    "f35d"
+  ],
+  "poprbx": [
+    "265b",
+    "2e5b",
+    "365b",
+    "3e5b",
+    "405b",
+    "425b",
+    "445b",
+    "465b",
+    "485b",
+    "4a5b",
+    "4c5b",
+    "4e5b",
+    "5b",
+    "645b",
+    "655b",
+    "675b",
+    "8fc3",
+    "f25b",
+    "f35b"
+  ],
+  "poprcx": [
+    "2659",
+    "2e59",
+    "3659",
+    "3e59",
+    "4059",
+    "4259",
+    "4459",
+    "4659",
+    "4859",
+    "4a59",
+    "4c59",
+    "4e59",
+    "59",
+    "6459",
+    "6559",
+    "6759",
+    "8fc1",
+    "f259",
+    "f359"
+  ],
+  "poprdi": [
+    "265f",
+    "2e5f",
+    "365f",
+    "3e5f",
+    "405f",
+    "425f",
+    "445f",
+    "465f",
+    "485f",
+    "4a5f",
+    "4c5f",
+    "4e5f",
+    "5f",
+    "645f",
+    "655f",
+    "675f",
+    "8fc7",
+    "f25f",
+    "f35f"
+  ],
+  "poprdx": [
+    "265a",
+    "2e5a",
+    "365a",
+    "3e5a",
+    "405a",
+    "425a",
+    "445a",
+    "465a",
+    "485a",
+    "4a5a",
+    "4c5a",
+    "4e5a",
+    "5a",
+    "645a",
+    "655a",
+    "675a",
+    "8fc2",
+    "f25a",
+    "f35a"
+  ],
+  "poprsi": [
+    "265e",
+    "2e5e",
+    "365e",
+    "3e5e",
+    "405e",
+    "425e",
+    "445e",
+    "465e",
+    "485e",
+    "4a5e",
+    "4c5e",
+    "4e5e",
+    "5e",
+    "645e",
+    "655e",
+    "675e",
+    "8fc6",
+    "f25e",
+    "f35e"
+  ],
+  "poprsp": [
+    "265c",
+    "2e5c",
+    "365c",
+    "3e5c",
+    "405c",
+    "425c",
+    "445c",
+    "465c",
+    "485c",
+    "4a5c",
+    "4c5c",
+    "4e5c",
+    "5c",
+    "645c",
+    "655c",
+    "675c",
+    "8fc4",
+    "f25c",
+    "f35c"
+  ],
+  "pushfq": [
+    "269c",
+    "2e9c",
+    "369c",
+    "3e9c",
+    "409c",
+    "419c",
+    "429c",
+    "439c",
+    "449c",
+    "459c",
+    "469c",
+    "479c",
+    "489c",
+    "499c",
+    "4a9c",
+    "4b9c",
+    "4c9c",
+    "4d9c",
+    "4e9c",
+    "4f9c",
+    "649c",
+    "659c",
+    "679c",
+    "9c",
+    "f29c",
+    "f39c"
+  ],
+  "pushr10": [
+    "4152",
+    "4352",
+    "4552",
+    "4752",
+    "4952",
+    "4b52",
+    "4d52",
+    "4f52"
+  ],
+  "pushr11": [
+    "4153",
+    "4353",
+    "4553",
+    "4753",
+    "4953",
+    "4b53",
+    "4d53",
+    "4f53"
+  ],
+  "pushr12": [
+    "4154",
+    "4354",
+    "4554",
+    "4754",
+    "4954",
+    "4b54",
+    "4d54",
+    "4f54"
+  ],
+  "pushr13": [
+    "4155",
+    "4355",
+    "4555",
+    "4755",
+    "4955",
+    "4b55",
+    "4d55",
+    "4f55"
+  ],
+  "pushr14": [
+    "4156",
+    "4356",
+    "4556",
+    "4756",
+    "4956",
+    "4b56",
+    "4d56",
+    "4f56"
+  ],
+  "pushr15": [
+    "4157",
+    "4357",
+    "4557",
+    "4757",
+    "4957",
+    "4b57",
+    "4d57",
+    "4f57"
+  ],
+  "pushr8": [
+    "4150",
+    "4350",
+    "4550",
+    "4750",
+    "4950",
+    "4b50",
+    "4d50",
+    "4f50"
+  ],
+  "pushr9": [
+    "4151",
+    "4351",
+    "4551",
+    "4751",
+    "4951",
+    "4b51",
+    "4d51",
+    "4f51"
+  ],
+  "pushrax": [
+    "2650",
+    "2e50",
+    "3650",
+    "3e50",
+    "4050",
+    "4250",
+    "4450",
+    "4650",
+    "4850",
+    "4a50",
+    "4c50",
+    "4e50",
+    "50",
+    "6450",
+    "6550",
+    "6750",
+    "f250",
+    "f350",
+    "fff0"
+  ],
+  "pushrbp": [
+    "2655",
+    "2e55",
+    "3655",
+    "3e55",
+    "4055",
+    "4255",
+    "4455",
+    "4655",
+    "4855",
+    "4a55",
+    "4c55",
+    "4e55",
+    "55",
+    "6455",
+    "6555",
+    "6755",
+    "f255",
+    "f355",
+    "fff5"
+  ],
+  "pushrbx": [
+    "2653",
+    "2e53",
+    "3653",
+    "3e53",
+    "4053",
+    "4253",
+    "4453",
+    "4653",
+    "4853",
+    "4a53",
+    "4c53",
+    "4e53",
+    "53",
+    "6453",
+    "6553",
+    "6753",
+    "f253",
+    "f353",
+    "fff3"
+  ],
+  "pushrcx": [
+    "2651",
+    "2e51",
+    "3651",
+    "3e51",
+    "4051",
+    "4251",
+    "4451",
+    "4651",
+    "4851",
+    "4a51",
+    "4c51",
+    "4e51",
+    "51",
+    "6451",
+    "6551",
+    "6751",
+    "f251",
+    "f351",
+    "fff1"
+  ],
+  "pushrdi": [
+    "2657",
+    "2e57",
+    "3657",
+    "3e57",
+    "4057",
+    "4257",
+    "4457",
+    "4657",
+    "4857",
+    "4a57",
+    "4c57",
+    "4e57",
+    "57",
+    "6457",
+    "6557",
+    "6757",
+    "f257",
+    "f357",
+    "fff7"
+  ],
+  "pushrdx": [
+    "2652",
+    "2e52",
+    "3652",
+    "3e52",
+    "4052",
+    "4252",
+    "4452",
+    "4652",
+    "4852",
+    "4a52",
+    "4c52",
+    "4e52",
+    "52",
+    "6452",
+    "6552",
+    "6752",
+    "f252",
+    "f352",
+    "fff2"
+  ],
+  "pushrsi": [
+    "2656",
+    "2e56",
+    "3656",
+    "3e56",
+    "4056",
+    "4256",
+    "4456",
+    "4656",
+    "4856",
+    "4a56",
+    "4c56",
+    "4e56",
+    "56",
+    "6456",
+    "6556",
+    "6756",
+    "f256",
+    "f356",
+    "fff6"
+  ],
+  "pushrsp": [
+    "2654",
+    "2e54",
+    "3654",
+    "3e54",
+    "4054",
+    "4254",
+    "4454",
+    "4654",
+    "4854",
+    "4a54",
+    "4c54",
+    "4e54",
+    "54",
+    "6454",
+    "6554",
+    "6754",
+    "f254",
+    "f354",
+    "fff4"
+  ],
+  "ret": [
+    "26c3",
+    "2ec3",
+    "36c3",
+    "3ec3",
+    "40c3",
+    "41c3",
+    "42c3",
+    "43c3",
+    "44c3",
+    "45c3",
+    "46c3",
+    "47c3",
+    "48c3",
+    "49c3",
+    "4ac3",
+    "4bc3",
+    "4cc3",
+    "4dc3",
+    "4ec3",
+    "4fc3",
+    "64c3",
+    "65c3",
+    "66c3",
+    "67c3",
+    "c3"
+  ],
+  "retf": [
+    "26cb",
+    "2ecb",
+    "36cb",
+    "3ecb",
+    "40cb",
+    "41cb",
+    "42cb",
+    "43cb",
+    "44cb",
+    "45cb",
+    "46cb",
+    "47cb",
+    "64cb",
+    "65cb",
+    "66cb",
+    "67cb",
+    "cb",
+    "f3cb"
+  ],
+  "retfq": [
+    "48cb",
+    "49cb",
+    "4acb",
+    "4bcb",
+    "4ccb",
+    "4dcb",
+    "4ecb",
+    "4fcb"
+  ],
+  "sahf": [
+    "269e",
+    "2e9e",
+    "369e",
+    "3e9e",
+    "409e",
+    "419e",
+    "429e",
+    "439e",
+    "449e",
+    "459e",
+    "469e",
+    "479e",
+    "489e",
+    "499e",
+    "4a9e",
+    "4b9e",
+    "4c9e",
+    "4d9e",
+    "4e9e",
+    "4f9e",
+    "649e",
+    "659e",
+    "669e",
+    "679e",
+    "9e",
+    "f29e",
+    "f39e"
+  ],
+  "sbbah, ah": [
+    "18e4",
+    "1ae4"
+  ],
+  "sbbah, al": [
+    "18c4",
+    "1ae0"
+  ],
+  "sbbah, bh": [
+    "18fc",
+    "1ae7"
+  ],
+  "sbbah, bl": [
+    "18dc",
+    "1ae3"
+  ],
+  "sbbah, ch": [
+    "18ec",
+    "1ae5"
+  ],
+  "sbbah, cl": [
+    "18cc",
+    "1ae1"
+  ],
+  "sbbah, dh": [
+    "18f4",
+    "1ae6"
+  ],
+  "sbbah, dl": [
+    "18d4",
+    "1ae2"
+  ],
+  "sbbal, ah": [
+    "18e0",
+    "1ac4"
+  ],
+  "sbbal, al": [
+    "18c0",
+    "1ac0"
+  ],
+  "sbbal, bh": [
+    "18f8",
+    "1ac7"
+  ],
+  "sbbal, bl": [
+    "18d8",
+    "1ac3"
+  ],
+  "sbbal, ch": [
+    "18e8",
+    "1ac5"
+  ],
+  "sbbal, cl": [
+    "18c8",
+    "1ac1"
+  ],
+  "sbbal, dh": [
+    "18f0",
+    "1ac6"
+  ],
+  "sbbal, dl": [
+    "18d0",
+    "1ac2"
+  ],
+  "sbbbh, ah": [
+    "18e7",
+    "1afc"
+  ],
+  "sbbbh, al": [
+    "18c7",
+    "1af8"
+  ],
+  "sbbbh, bh": [
+    "18ff",
+    "1aff"
+  ],
+  "sbbbh, bl": [
+    "18df",
+    "1afb"
+  ],
+  "sbbbh, ch": [
+    "18ef",
+    "1afd"
+  ],
+  "sbbbh, cl": [
+    "18cf",
+    "1af9"
+  ],
+  "sbbbh, dh": [
+    "18f7",
+    "1afe"
+  ],
+  "sbbbh, dl": [
+    "18d7",
+    "1afa"
+  ],
+  "sbbbl, ah": [
+    "18e3",
+    "1adc"
+  ],
+  "sbbbl, al": [
+    "18c3",
+    "1ad8"
+  ],
+  "sbbbl, bh": [
+    "18fb",
+    "1adf"
+  ],
+  "sbbbl, bl": [
+    "18db",
+    "1adb"
+  ],
+  "sbbbl, ch": [
+    "18eb",
+    "1add"
+  ],
+  "sbbbl, cl": [
+    "18cb",
+    "1ad9"
+  ],
+  "sbbbl, dh": [
+    "18f3",
+    "1ade"
+  ],
+  "sbbbl, dl": [
+    "18d3",
+    "1ada"
+  ],
+  "sbbch, ah": [
+    "18e5",
+    "1aec"
+  ],
+  "sbbch, al": [
+    "18c5",
+    "1ae8"
+  ],
+  "sbbch, bh": [
+    "18fd",
+    "1aef"
+  ],
+  "sbbch, bl": [
+    "18dd",
+    "1aeb"
+  ],
+  "sbbch, ch": [
+    "18ed",
+    "1aed"
+  ],
+  "sbbch, cl": [
+    "18cd",
+    "1ae9"
+  ],
+  "sbbch, dh": [
+    "18f5",
+    "1aee"
+  ],
+  "sbbch, dl": [
+    "18d5",
+    "1aea"
+  ],
+  "sbbcl, ah": [
+    "18e1",
+    "1acc"
+  ],
+  "sbbcl, al": [
+    "18c1",
+    "1ac8"
+  ],
+  "sbbcl, bh": [
+    "18f9",
+    "1acf"
+  ],
+  "sbbcl, bl": [
+    "18d9",
+    "1acb"
+  ],
+  "sbbcl, ch": [
+    "18e9",
+    "1acd"
+  ],
+  "sbbcl, cl": [
+    "18c9",
+    "1ac9"
+  ],
+  "sbbcl, dh": [
+    "18f1",
+    "1ace"
+  ],
+  "sbbcl, dl": [
+    "18d1",
+    "1aca"
+  ],
+  "sbbdh, ah": [
+    "18e6",
+    "1af4"
+  ],
+  "sbbdh, al": [
+    "18c6",
+    "1af0"
+  ],
+  "sbbdh, bh": [
+    "18fe",
+    "1af7"
+  ],
+  "sbbdh, bl": [
+    "18de",
+    "1af3"
+  ],
+  "sbbdh, ch": [
+    "18ee",
+    "1af5"
+  ],
+  "sbbdh, cl": [
+    "18ce",
+    "1af1"
+  ],
+  "sbbdh, dh": [
+    "18f6",
+    "1af6"
+  ],
+  "sbbdh, dl": [
+    "18d6",
+    "1af2"
+  ],
+  "sbbdl, ah": [
+    "18e2",
+    "1ad4"
+  ],
+  "sbbdl, al": [
+    "18c2",
+    "1ad0"
+  ],
+  "sbbdl, bh": [
+    "18fa",
+    "1ad7"
+  ],
+  "sbbdl, bl": [
+    "18da",
+    "1ad3"
+  ],
+  "sbbdl, ch": [
+    "18ea",
+    "1ad5"
+  ],
+  "sbbdl, cl": [
+    "18ca",
+    "1ad1"
+  ],
+  "sbbdl, dh": [
+    "18f2",
+    "1ad6"
+  ],
+  "sbbdl, dl": [
+    "18d2",
+    "1ad2"
+  ],
+  "sbbeax, eax": [
+    "19c0",
+    "1bc0"
+  ],
+  "sbbeax, ebp": [
+    "19e8",
+    "1bc5"
+  ],
+  "sbbeax, ebx": [
+    "19d8",
+    "1bc3"
+  ],
+  "sbbeax, ecx": [
+    "19c8",
+    "1bc1"
+  ],
+  "sbbeax, edi": [
+    "19f8",
+    "1bc7"
+  ],
+  "sbbeax, edx": [
+    "19d0",
+    "1bc2"
+  ],
+  "sbbeax, esi": [
+    "19f0",
+    "1bc6"
+  ],
+  "sbbeax, esp": [
+    "19e0",
+    "1bc4"
+  ],
+  "sbbebp, eax": [
+    "19c5",
+    "1be8"
+  ],
+  "sbbebp, ebp": [
+    "19ed",
+    "1bed"
+  ],
+  "sbbebp, ebx": [
+    "19dd",
+    "1beb"
+  ],
+  "sbbebp, ecx": [
+    "19cd",
+    "1be9"
+  ],
+  "sbbebp, edi": [
+    "19fd",
+    "1bef"
+  ],
+  "sbbebp, edx": [
+    "19d5",
+    "1bea"
+  ],
+  "sbbebp, esi": [
+    "19f5",
+    "1bee"
+  ],
+  "sbbebp, esp": [
+    "19e5",
+    "1bec"
+  ],
+  "sbbebx, eax": [
+    "19c3",
+    "1bd8"
+  ],
+  "sbbebx, ebp": [
+    "19eb",
+    "1bdd"
+  ],
+  "sbbebx, ebx": [
+    "19db",
+    "1bdb"
+  ],
+  "sbbebx, ecx": [
+    "19cb",
+    "1bd9"
+  ],
+  "sbbebx, edi": [
+    "19fb",
+    "1bdf"
+  ],
+  "sbbebx, edx": [
+    "19d3",
+    "1bda"
+  ],
+  "sbbebx, esi": [
+    "19f3",
+    "1bde"
+  ],
+  "sbbebx, esp": [
+    "19e3",
+    "1bdc"
+  ],
+  "sbbecx, eax": [
+    "19c1",
+    "1bc8"
+  ],
+  "sbbecx, ebp": [
+    "19e9",
+    "1bcd"
+  ],
+  "sbbecx, ebx": [
+    "19d9",
+    "1bcb"
+  ],
+  "sbbecx, ecx": [
+    "19c9",
+    "1bc9"
+  ],
+  "sbbecx, edi": [
+    "19f9",
+    "1bcf"
+  ],
+  "sbbecx, edx": [
+    "19d1",
+    "1bca"
+  ],
+  "sbbecx, esi": [
+    "19f1",
+    "1bce"
+  ],
+  "sbbecx, esp": [
+    "19e1",
+    "1bcc"
+  ],
+  "sbbedi, eax": [
+    "19c7",
+    "1bf8"
+  ],
+  "sbbedi, ebp": [
+    "19ef",
+    "1bfd"
+  ],
+  "sbbedi, ebx": [
+    "19df",
+    "1bfb"
+  ],
+  "sbbedi, ecx": [
+    "19cf",
+    "1bf9"
+  ],
+  "sbbedi, edi": [
+    "19ff",
+    "1bff"
+  ],
+  "sbbedi, edx": [
+    "19d7",
+    "1bfa"
+  ],
+  "sbbedi, esi": [
+    "19f7",
+    "1bfe"
+  ],
+  "sbbedi, esp": [
+    "19e7",
+    "1bfc"
+  ],
+  "sbbedx, eax": [
+    "19c2",
+    "1bd0"
+  ],
+  "sbbedx, ebp": [
+    "19ea",
+    "1bd5"
+  ],
+  "sbbedx, ebx": [
+    "19da",
+    "1bd3"
+  ],
+  "sbbedx, ecx": [
+    "19ca",
+    "1bd1"
+  ],
+  "sbbedx, edi": [
+    "19fa",
+    "1bd7"
+  ],
+  "sbbedx, edx": [
+    "19d2",
+    "1bd2"
+  ],
+  "sbbedx, esi": [
+    "19f2",
+    "1bd6"
+  ],
+  "sbbedx, esp": [
+    "19e2",
+    "1bd4"
+  ],
+  "sbbesi, eax": [
+    "19c6",
+    "1bf0"
+  ],
+  "sbbesi, ebp": [
+    "19ee",
+    "1bf5"
+  ],
+  "sbbesi, ebx": [
+    "19de",
+    "1bf3"
+  ],
+  "sbbesi, ecx": [
+    "19ce",
+    "1bf1"
+  ],
+  "sbbesi, edi": [
+    "19fe",
+    "1bf7"
+  ],
+  "sbbesi, edx": [
+    "19d6",
+    "1bf2"
+  ],
+  "sbbesi, esi": [
+    "19f6",
+    "1bf6"
+  ],
+  "sbbesi, esp": [
+    "19e6",
+    "1bf4"
+  ],
+  "sbbesp, eax": [
+    "19c4",
+    "1be0"
+  ],
+  "sbbesp, ebp": [
+    "19ec",
+    "1be5"
+  ],
+  "sbbesp, ebx": [
+    "19dc",
+    "1be3"
+  ],
+  "sbbesp, ecx": [
+    "19cc",
+    "1be1"
+  ],
+  "sbbesp, edi": [
+    "19fc",
+    "1be7"
+  ],
+  "sbbesp, edx": [
+    "19d4",
+    "1be2"
+  ],
+  "sbbesp, esi": [
+    "19f4",
+    "1be6"
+  ],
+  "sbbesp, esp": [
+    "19e4",
+    "1be4"
+  ],
+  "scasbal, byte ptr [rdi]": [
+    "26ae",
+    "2eae",
+    "36ae",
+    "3eae",
+    "40ae",
+    "41ae",
+    "42ae",
+    "43ae",
+    "44ae",
+    "45ae",
+    "46ae",
+    "47ae",
+    "48ae",
+    "49ae",
+    "4aae",
+    "4bae",
+    "4cae",
+    "4dae",
+    "4eae",
+    "4fae",
+    "64ae",
+    "65ae",
+    "66ae",
+    "ae"
+  ],
+  "scasdeax, dword ptr [rdi]": [
+    "26af",
+    "2eaf",
+    "36af",
+    "3eaf",
+    "40af",
+    "41af",
+    "42af",
+    "43af",
+    "44af",
+    "45af",
+    "46af",
+    "47af",
+    "64af",
+    "65af",
+    "af"
+  ],
+  "scasqrax, qword ptr [rdi]": [
+    "48af",
+    "49af",
+    "4aaf",
+    "4baf",
+    "4caf",
+    "4daf",
+    "4eaf",
+    "4faf"
+  ],
+  "stc": [
+    "26f9",
+    "2ef9",
+    "36f9",
+    "3ef9",
+    "40f9",
+    "41f9",
+    "42f9",
+    "43f9",
+    "44f9",
+    "45f9",
+    "46f9",
+    "47f9",
+    "48f9",
+    "49f9",
+    "4af9",
+    "4bf9",
+    "4cf9",
+    "4df9",
+    "4ef9",
+    "4ff9",
+    "64f9",
+    "65f9",
+    "66f9",
+    "67f9",
+    "f2f9",
+    "f3f9",
+    "f9"
+  ],
+  "std": [
+    "26fd",
+    "2efd",
+    "36fd",
+    "3efd",
+    "40fd",
+    "41fd",
+    "42fd",
+    "43fd",
+    "44fd",
+    "45fd",
+    "46fd",
+    "47fd",
+    "48fd",
+    "49fd",
+    "4afd",
+    "4bfd",
+    "4cfd",
+    "4dfd",
+    "4efd",
+    "4ffd",
+    "64fd",
+    "65fd",
+    "66fd",
+    "67fd",
+    "f2fd",
+    "f3fd",
+    "fd"
+  ],
+  "sti": [
+    "26fb",
+    "2efb",
+    "36fb",
+    "3efb",
+    "40fb",
+    "41fb",
+    "42fb",
+    "43fb",
+    "44fb",
+    "45fb",
+    "46fb",
+    "47fb",
+    "48fb",
+    "49fb",
+    "4afb",
+    "4bfb",
+    "4cfb",
+    "4dfb",
+    "4efb",
+    "4ffb",
+    "64fb",
+    "65fb",
+    "66fb",
+    "67fb",
+    "f2fb",
+    "f3fb",
+    "fb"
+  ],
+  "stosbbyte ptr [rdi], al": [
+    "26aa",
+    "2eaa",
+    "36aa",
+    "3eaa",
+    "40aa",
+    "41aa",
+    "42aa",
+    "43aa",
+    "44aa",
+    "45aa",
+    "46aa",
+    "47aa",
+    "48aa",
+    "49aa",
+    "4aaa",
+    "4baa",
+    "4caa",
+    "4daa",
+    "4eaa",
+    "4faa",
+    "64aa",
+    "65aa",
+    "66aa",
+    "aa"
+  ],
+  "stosddword ptr [rdi], eax": [
+    "26ab",
+    "2eab",
+    "36ab",
+    "3eab",
+    "40ab",
+    "41ab",
+    "42ab",
+    "43ab",
+    "44ab",
+    "45ab",
+    "46ab",
+    "47ab",
+    "64ab",
+    "65ab",
+    "ab"
+  ],
+  "stosqqword ptr [rdi], rax": [
+    "48ab",
+    "49ab",
+    "4aab",
+    "4bab",
+    "4cab",
+    "4dab",
+    "4eab",
+    "4fab"
+  ],
+  "subah, ah": [
+    "28e4",
+    "2ae4"
+  ],
+  "subah, al": [
+    "28c4",
+    "2ae0"
+  ],
+  "subah, bh": [
+    "28fc",
+    "2ae7"
+  ],
+  "subah, bl": [
+    "28dc",
+    "2ae3"
+  ],
+  "subah, ch": [
+    "28ec",
+    "2ae5"
+  ],
+  "subah, cl": [
+    "28cc",
+    "2ae1"
+  ],
+  "subah, dh": [
+    "28f4",
+    "2ae6"
+  ],
+  "subah, dl": [
+    "28d4",
+    "2ae2"
+  ],
+  "subal, ah": [
+    "28e0",
+    "2ac4"
+  ],
+  "subal, al": [
+    "28c0",
+    "2ac0"
+  ],
+  "subal, bh": [
+    "28f8",
+    "2ac7"
+  ],
+  "subal, bl": [
+    "28d8",
+    "2ac3"
+  ],
+  "subal, ch": [
+    "28e8",
+    "2ac5"
+  ],
+  "subal, cl": [
+    "28c8",
+    "2ac1"
+  ],
+  "subal, dh": [
+    "28f0",
+    "2ac6"
+  ],
+  "subal, dl": [
+    "28d0",
+    "2ac2"
+  ],
+  "subbh, ah": [
+    "28e7",
+    "2afc"
+  ],
+  "subbh, al": [
+    "28c7",
+    "2af8"
+  ],
+  "subbh, bh": [
+    "28ff",
+    "2aff"
+  ],
+  "subbh, bl": [
+    "28df",
+    "2afb"
+  ],
+  "subbh, ch": [
+    "28ef",
+    "2afd"
+  ],
+  "subbh, cl": [
+    "28cf",
+    "2af9"
+  ],
+  "subbh, dh": [
+    "28f7",
+    "2afe"
+  ],
+  "subbh, dl": [
+    "28d7",
+    "2afa"
+  ],
+  "subbl, ah": [
+    "28e3",
+    "2adc"
+  ],
+  "subbl, al": [
+    "28c3",
+    "2ad8"
+  ],
+  "subbl, bh": [
+    "28fb",
+    "2adf"
+  ],
+  "subbl, bl": [
+    "28db",
+    "2adb"
+  ],
+  "subbl, ch": [
+    "28eb",
+    "2add"
+  ],
+  "subbl, cl": [
+    "28cb",
+    "2ad9"
+  ],
+  "subbl, dh": [
+    "28f3",
+    "2ade"
+  ],
+  "subbl, dl": [
+    "28d3",
+    "2ada"
+  ],
+  "subch, ah": [
+    "28e5",
+    "2aec"
+  ],
+  "subch, al": [
+    "28c5",
+    "2ae8"
+  ],
+  "subch, bh": [
+    "28fd",
+    "2aef"
+  ],
+  "subch, bl": [
+    "28dd",
+    "2aeb"
+  ],
+  "subch, ch": [
+    "28ed",
+    "2aed"
+  ],
+  "subch, cl": [
+    "28cd",
+    "2ae9"
+  ],
+  "subch, dh": [
+    "28f5",
+    "2aee"
+  ],
+  "subch, dl": [
+    "28d5",
+    "2aea"
+  ],
+  "subcl, ah": [
+    "28e1",
+    "2acc"
+  ],
+  "subcl, al": [
+    "28c1",
+    "2ac8"
+  ],
+  "subcl, bh": [
+    "28f9",
+    "2acf"
+  ],
+  "subcl, bl": [
+    "28d9",
+    "2acb"
+  ],
+  "subcl, ch": [
+    "28e9",
+    "2acd"
+  ],
+  "subcl, cl": [
+    "28c9",
+    "2ac9"
+  ],
+  "subcl, dh": [
+    "28f1",
+    "2ace"
+  ],
+  "subcl, dl": [
+    "28d1",
+    "2aca"
+  ],
+  "subdh, ah": [
+    "28e6",
+    "2af4"
+  ],
+  "subdh, al": [
+    "28c6",
+    "2af0"
+  ],
+  "subdh, bh": [
+    "28fe",
+    "2af7"
+  ],
+  "subdh, bl": [
+    "28de",
+    "2af3"
+  ],
+  "subdh, ch": [
+    "28ee",
+    "2af5"
+  ],
+  "subdh, cl": [
+    "28ce",
+    "2af1"
+  ],
+  "subdh, dh": [
+    "28f6",
+    "2af6"
+  ],
+  "subdh, dl": [
+    "28d6",
+    "2af2"
+  ],
+  "subdl, ah": [
+    "28e2",
+    "2ad4"
+  ],
+  "subdl, al": [
+    "28c2",
+    "2ad0"
+  ],
+  "subdl, bh": [
+    "28fa",
+    "2ad7"
+  ],
+  "subdl, bl": [
+    "28da",
+    "2ad3"
+  ],
+  "subdl, ch": [
+    "28ea",
+    "2ad5"
+  ],
+  "subdl, cl": [
+    "28ca",
+    "2ad1"
+  ],
+  "subdl, dh": [
+    "28f2",
+    "2ad6"
+  ],
+  "subdl, dl": [
+    "28d2",
+    "2ad2"
+  ],
+  "subeax, eax": [
+    "29c0",
+    "2bc0"
+  ],
+  "subeax, ebp": [
+    "29e8",
+    "2bc5"
+  ],
+  "subeax, ebx": [
+    "29d8",
+    "2bc3"
+  ],
+  "subeax, ecx": [
+    "29c8",
+    "2bc1"
+  ],
+  "subeax, edi": [
+    "29f8",
+    "2bc7"
+  ],
+  "subeax, edx": [
+    "29d0",
+    "2bc2"
+  ],
+  "subeax, esi": [
+    "29f0",
+    "2bc6"
+  ],
+  "subeax, esp": [
+    "29e0",
+    "2bc4"
+  ],
+  "subebp, eax": [
+    "29c5",
+    "2be8"
+  ],
+  "subebp, ebp": [
+    "29ed",
+    "2bed"
+  ],
+  "subebp, ebx": [
+    "29dd",
+    "2beb"
+  ],
+  "subebp, ecx": [
+    "29cd",
+    "2be9"
+  ],
+  "subebp, edi": [
+    "29fd",
+    "2bef"
+  ],
+  "subebp, edx": [
+    "29d5",
+    "2bea"
+  ],
+  "subebp, esi": [
+    "29f5",
+    "2bee"
+  ],
+  "subebp, esp": [
+    "29e5",
+    "2bec"
+  ],
+  "subebx, eax": [
+    "29c3",
+    "2bd8"
+  ],
+  "subebx, ebp": [
+    "29eb",
+    "2bdd"
+  ],
+  "subebx, ebx": [
+    "29db",
+    "2bdb"
+  ],
+  "subebx, ecx": [
+    "29cb",
+    "2bd9"
+  ],
+  "subebx, edi": [
+    "29fb",
+    "2bdf"
+  ],
+  "subebx, edx": [
+    "29d3",
+    "2bda"
+  ],
+  "subebx, esi": [
+    "29f3",
+    "2bde"
+  ],
+  "subebx, esp": [
+    "29e3",
+    "2bdc"
+  ],
+  "subecx, eax": [
+    "29c1",
+    "2bc8"
+  ],
+  "subecx, ebp": [
+    "29e9",
+    "2bcd"
+  ],
+  "subecx, ebx": [
+    "29d9",
+    "2bcb"
+  ],
+  "subecx, ecx": [
+    "29c9",
+    "2bc9"
+  ],
+  "subecx, edi": [
+    "29f9",
+    "2bcf"
+  ],
+  "subecx, edx": [
+    "29d1",
+    "2bca"
+  ],
+  "subecx, esi": [
+    "29f1",
+    "2bce"
+  ],
+  "subecx, esp": [
+    "29e1",
+    "2bcc"
+  ],
+  "subedi, eax": [
+    "29c7",
+    "2bf8"
+  ],
+  "subedi, ebp": [
+    "29ef",
+    "2bfd"
+  ],
+  "subedi, ebx": [
+    "29df",
+    "2bfb"
+  ],
+  "subedi, ecx": [
+    "29cf",
+    "2bf9"
+  ],
+  "subedi, edi": [
+    "29ff",
+    "2bff"
+  ],
+  "subedi, edx": [
+    "29d7",
+    "2bfa"
+  ],
+  "subedi, esi": [
+    "29f7",
+    "2bfe"
+  ],
+  "subedi, esp": [
+    "29e7",
+    "2bfc"
+  ],
+  "subedx, eax": [
+    "29c2",
+    "2bd0"
+  ],
+  "subedx, ebp": [
+    "29ea",
+    "2bd5"
+  ],
+  "subedx, ebx": [
+    "29da",
+    "2bd3"
+  ],
+  "subedx, ecx": [
+    "29ca",
+    "2bd1"
+  ],
+  "subedx, edi": [
+    "29fa",
+    "2bd7"
+  ],
+  "subedx, edx": [
+    "29d2",
+    "2bd2"
+  ],
+  "subedx, esi": [
+    "29f2",
+    "2bd6"
+  ],
+  "subedx, esp": [
+    "29e2",
+    "2bd4"
+  ],
+  "subesi, eax": [
+    "29c6",
+    "2bf0"
+  ],
+  "subesi, ebp": [
+    "29ee",
+    "2bf5"
+  ],
+  "subesi, ebx": [
+    "29de",
+    "2bf3"
+  ],
+  "subesi, ecx": [
+    "29ce",
+    "2bf1"
+  ],
+  "subesi, edi": [
+    "29fe",
+    "2bf7"
+  ],
+  "subesi, edx": [
+    "29d6",
+    "2bf2"
+  ],
+  "subesi, esi": [
+    "29f6",
+    "2bf6"
+  ],
+  "subesi, esp": [
+    "29e6",
+    "2bf4"
+  ],
+  "subesp, eax": [
+    "29c4",
+    "2be0"
+  ],
+  "subesp, ebp": [
+    "29ec",
+    "2be5"
+  ],
+  "subesp, ebx": [
+    "29dc",
+    "2be3"
+  ],
+  "subesp, ecx": [
+    "29cc",
+    "2be1"
+  ],
+  "subesp, edi": [
+    "29fc",
+    "2be7"
+  ],
+  "subesp, edx": [
+    "29d4",
+    "2be2"
+  ],
+  "subesp, esi": [
+    "29f4",
+    "2be6"
+  ],
+  "subesp, esp": [
+    "29e4",
+    "2be4"
+  ],
+  "wait": [
+    "269b",
+    "2e9b",
+    "369b",
+    "3e9b",
+    "409b",
+    "419b",
+    "429b",
+    "439b",
+    "449b",
+    "459b",
+    "469b",
+    "479b",
+    "489b",
+    "499b",
+    "4a9b",
+    "4b9b",
+    "4c9b",
+    "4d9b",
+    "4e9b",
+    "4f9b",
+    "649b",
+    "659b",
+    "669b",
+    "679b",
+    "9b",
+    "f29b",
+    "f39b"
+  ],
+  "xchgebp, eax": [
+    "2695",
+    "2e95",
+    "3695",
+    "3e95",
+    "4095",
+    "4295",
+    "4495",
+    "4695",
+    "6495",
+    "6595",
+    "6795",
+    "87c5",
+    "95",
+    "f295",
+    "f395"
+  ],
+  "xchgebx, eax": [
+    "2693",
+    "2e93",
+    "3693",
+    "3e93",
+    "4093",
+    "4293",
+    "4493",
+    "4693",
+    "6493",
+    "6593",
+    "6793",
+    "87c3",
+    "93",
+    "f293",
+    "f393"
+  ],
+  "xchgecx, eax": [
+    "2691",
+    "2e91",
+    "3691",
+    "3e91",
+    "4091",
+    "4291",
+    "4491",
+    "4691",
+    "6491",
+    "6591",
+    "6791",
+    "87c1",
+    "91",
+    "f291",
+    "f391"
+  ],
+  "xchgedi, eax": [
+    "2697",
+    "2e97",
+    "3697",
+    "3e97",
+    "4097",
+    "4297",
+    "4497",
+    "4697",
+    "6497",
+    "6597",
+    "6797",
+    "87c7",
+    "97",
+    "f297",
+    "f397"
+  ],
+  "xchgedx, eax": [
+    "2692",
+    "2e92",
+    "3692",
+    "3e92",
+    "4092",
+    "4292",
+    "4492",
+    "4692",
+    "6492",
+    "6592",
+    "6792",
+    "87c2",
+    "92",
+    "f292",
+    "f392"
+  ],
+  "xchgesi, eax": [
+    "2696",
+    "2e96",
+    "3696",
+    "3e96",
+    "4096",
+    "4296",
+    "4496",
+    "4696",
+    "6496",
+    "6596",
+    "6796",
+    "87c6",
+    "96",
+    "f296",
+    "f396"
+  ],
+  "xchgesp, eax": [
+    "2694",
+    "2e94",
+    "3694",
+    "3e94",
+    "4094",
+    "4294",
+    "4494",
+    "4694",
+    "6494",
+    "6594",
+    "6794",
+    "87c4",
+    "94",
+    "f294",
+    "f394"
+  ],
+  "xchgr10, rax": [
+    "4992",
+    "4b92",
+    "4d92",
+    "4f92"
+  ],
+  "xchgr10d, eax": [
+    "4192",
+    "4392",
+    "4592",
+    "4792"
+  ],
+  "xchgr11, rax": [
+    "4993",
+    "4b93",
+    "4d93",
+    "4f93"
+  ],
+  "xchgr11d, eax": [
+    "4193",
+    "4393",
+    "4593",
+    "4793"
+  ],
+  "xchgr12, rax": [
+    "4994",
+    "4b94",
+    "4d94",
+    "4f94"
+  ],
+  "xchgr12d, eax": [
+    "4194",
+    "4394",
+    "4594",
+    "4794"
+  ],
+  "xchgr13, rax": [
+    "4995",
+    "4b95",
+    "4d95",
+    "4f95"
+  ],
+  "xchgr13d, eax": [
+    "4195",
+    "4395",
+    "4595",
+    "4795"
+  ],
+  "xchgr14, rax": [
+    "4996",
+    "4b96",
+    "4d96",
+    "4f96"
+  ],
+  "xchgr14d, eax": [
+    "4196",
+    "4396",
+    "4596",
+    "4796"
+  ],
+  "xchgr15, rax": [
+    "4997",
+    "4b97",
+    "4d97",
+    "4f97"
+  ],
+  "xchgr15d, eax": [
+    "4197",
+    "4397",
+    "4597",
+    "4797"
+  ],
+  "xchgr8, rax": [
+    "4990",
+    "4b90",
+    "4d90",
+    "4f90"
+  ],
+  "xchgr8d, eax": [
+    "4190",
+    "4390",
+    "4590",
+    "4790"
+  ],
+  "xchgr9, rax": [
+    "4991",
+    "4b91",
+    "4d91",
+    "4f91"
+  ],
+  "xchgr9d, eax": [
+    "4191",
+    "4391",
+    "4591",
+    "4791"
+  ],
+  "xchgrbp, rax": [
+    "4895",
+    "4a95",
+    "4c95",
+    "4e95"
+  ],
+  "xchgrbx, rax": [
+    "4893",
+    "4a93",
+    "4c93",
+    "4e93"
+  ],
+  "xchgrcx, rax": [
+    "4891",
+    "4a91",
+    "4c91",
+    "4e91"
+  ],
+  "xchgrdi, rax": [
+    "4897",
+    "4a97",
+    "4c97",
+    "4e97"
+  ],
+  "xchgrdx, rax": [
+    "4892",
+    "4a92",
+    "4c92",
+    "4e92"
+  ],
+  "xchgrsi, rax": [
+    "4896",
+    "4a96",
+    "4c96",
+    "4e96"
+  ],
+  "xchgrsp, rax": [
+    "4894",
+    "4a94",
+    "4c94",
+    "4e94"
+  ],
+  "xlatb": [
+    "26d7",
+    "2ed7",
+    "36d7",
+    "3ed7",
+    "40d7",
+    "41d7",
+    "42d7",
+    "43d7",
+    "44d7",
+    "45d7",
+    "46d7",
+    "47d7",
+    "48d7",
+    "49d7",
+    "4ad7",
+    "4bd7",
+    "4cd7",
+    "4dd7",
+    "4ed7",
+    "4fd7",
+    "64d7",
+    "65d7",
+    "66d7",
+    "67d7",
+    "d7",
+    "f2d7",
+    "f3d7"
+  ],
+  "xorah, ah": [
+    "30e4",
+    "32e4"
+  ],
+  "xorah, al": [
+    "30c4",
+    "32e0"
+  ],
+  "xorah, bh": [
+    "30fc",
+    "32e7"
+  ],
+  "xorah, bl": [
+    "30dc",
+    "32e3"
+  ],
+  "xorah, ch": [
+    "30ec",
+    "32e5"
+  ],
+  "xorah, cl": [
+    "30cc",
+    "32e1"
+  ],
+  "xorah, dh": [
+    "30f4",
+    "32e6"
+  ],
+  "xorah, dl": [
+    "30d4",
+    "32e2"
+  ],
+  "xoral, ah": [
+    "30e0",
+    "32c4"
+  ],
+  "xoral, al": [
+    "30c0",
+    "32c0"
+  ],
+  "xoral, bh": [
+    "30f8",
+    "32c7"
+  ],
+  "xoral, bl": [
+    "30d8",
+    "32c3"
+  ],
+  "xoral, ch": [
+    "30e8",
+    "32c5"
+  ],
+  "xoral, cl": [
+    "30c8",
+    "32c1"
+  ],
+  "xoral, dh": [
+    "30f0",
+    "32c6"
+  ],
+  "xoral, dl": [
+    "30d0",
+    "32c2"
+  ],
+  "xorbh, ah": [
+    "30e7",
+    "32fc"
+  ],
+  "xorbh, al": [
+    "30c7",
+    "32f8"
+  ],
+  "xorbh, bh": [
+    "30ff",
+    "32ff"
+  ],
+  "xorbh, bl": [
+    "30df",
+    "32fb"
+  ],
+  "xorbh, ch": [
+    "30ef",
+    "32fd"
+  ],
+  "xorbh, cl": [
+    "30cf",
+    "32f9"
+  ],
+  "xorbh, dh": [
+    "30f7",
+    "32fe"
+  ],
+  "xorbh, dl": [
+    "30d7",
+    "32fa"
+  ],
+  "xorbl, ah": [
+    "30e3",
+    "32dc"
+  ],
+  "xorbl, al": [
+    "30c3",
+    "32d8"
+  ],
+  "xorbl, bh": [
+    "30fb",
+    "32df"
+  ],
+  "xorbl, bl": [
+    "30db",
+    "32db"
+  ],
+  "xorbl, ch": [
+    "30eb",
+    "32dd"
+  ],
+  "xorbl, cl": [
+    "30cb",
+    "32d9"
+  ],
+  "xorbl, dh": [
+    "30f3",
+    "32de"
+  ],
+  "xorbl, dl": [
+    "30d3",
+    "32da"
+  ],
+  "xorch, ah": [
+    "30e5",
+    "32ec"
+  ],
+  "xorch, al": [
+    "30c5",
+    "32e8"
+  ],
+  "xorch, bh": [
+    "30fd",
+    "32ef"
+  ],
+  "xorch, bl": [
+    "30dd",
+    "32eb"
+  ],
+  "xorch, ch": [
+    "30ed",
+    "32ed"
+  ],
+  "xorch, cl": [
+    "30cd",
+    "32e9"
+  ],
+  "xorch, dh": [
+    "30f5",
+    "32ee"
+  ],
+  "xorch, dl": [
+    "30d5",
+    "32ea"
+  ],
+  "xorcl, ah": [
+    "30e1",
+    "32cc"
+  ],
+  "xorcl, al": [
+    "30c1",
+    "32c8"
+  ],
+  "xorcl, bh": [
+    "30f9",
+    "32cf"
+  ],
+  "xorcl, bl": [
+    "30d9",
+    "32cb"
+  ],
+  "xorcl, ch": [
+    "30e9",
+    "32cd"
+  ],
+  "xorcl, cl": [
+    "30c9",
+    "32c9"
+  ],
+  "xorcl, dh": [
+    "30f1",
+    "32ce"
+  ],
+  "xorcl, dl": [
+    "30d1",
+    "32ca"
+  ],
+  "xordh, ah": [
+    "30e6",
+    "32f4"
+  ],
+  "xordh, al": [
+    "30c6",
+    "32f0"
+  ],
+  "xordh, bh": [
+    "30fe",
+    "32f7"
+  ],
+  "xordh, bl": [
+    "30de",
+    "32f3"
+  ],
+  "xordh, ch": [
+    "30ee",
+    "32f5"
+  ],
+  "xordh, cl": [
+    "30ce",
+    "32f1"
+  ],
+  "xordh, dh": [
+    "30f6",
+    "32f6"
+  ],
+  "xordh, dl": [
+    "30d6",
+    "32f2"
+  ],
+  "xordl, ah": [
+    "30e2",
+    "32d4"
+  ],
+  "xordl, al": [
+    "30c2",
+    "32d0"
+  ],
+  "xordl, bh": [
+    "30fa",
+    "32d7"
+  ],
+  "xordl, bl": [
+    "30da",
+    "32d3"
+  ],
+  "xordl, ch": [
+    "30ea",
+    "32d5"
+  ],
+  "xordl, cl": [
+    "30ca",
+    "32d1"
+  ],
+  "xordl, dh": [
+    "30f2",
+    "32d6"
+  ],
+  "xordl, dl": [
+    "30d2",
+    "32d2"
+  ],
+  "xoreax, eax": [
+    "31c0",
+    "33c0"
+  ],
+  "xoreax, ebp": [
+    "31e8",
+    "33c5"
+  ],
+  "xoreax, ebx": [
+    "31d8",
+    "33c3"
+  ],
+  "xoreax, ecx": [
+    "31c8",
+    "33c1"
+  ],
+  "xoreax, edi": [
+    "31f8",
+    "33c7"
+  ],
+  "xoreax, edx": [
+    "31d0",
+    "33c2"
+  ],
+  "xoreax, esi": [
+    "31f0",
+    "33c6"
+  ],
+  "xoreax, esp": [
+    "31e0",
+    "33c4"
+  ],
+  "xorebp, eax": [
+    "31c5",
+    "33e8"
+  ],
+  "xorebp, ebp": [
+    "31ed",
+    "33ed"
+  ],
+  "xorebp, ebx": [
+    "31dd",
+    "33eb"
+  ],
+  "xorebp, ecx": [
+    "31cd",
+    "33e9"
+  ],
+  "xorebp, edi": [
+    "31fd",
+    "33ef"
+  ],
+  "xorebp, edx": [
+    "31d5",
+    "33ea"
+  ],
+  "xorebp, esi": [
+    "31f5",
+    "33ee"
+  ],
+  "xorebp, esp": [
+    "31e5",
+    "33ec"
+  ],
+  "xorebx, eax": [
+    "31c3",
+    "33d8"
+  ],
+  "xorebx, ebp": [
+    "31eb",
+    "33dd"
+  ],
+  "xorebx, ebx": [
+    "31db",
+    "33db"
+  ],
+  "xorebx, ecx": [
+    "31cb",
+    "33d9"
+  ],
+  "xorebx, edi": [
+    "31fb",
+    "33df"
+  ],
+  "xorebx, edx": [
+    "31d3",
+    "33da"
+  ],
+  "xorebx, esi": [
+    "31f3",
+    "33de"
+  ],
+  "xorebx, esp": [
+    "31e3",
+    "33dc"
+  ],
+  "xorecx, eax": [
+    "31c1",
+    "33c8"
+  ],
+  "xorecx, ebp": [
+    "31e9",
+    "33cd"
+  ],
+  "xorecx, ebx": [
+    "31d9",
+    "33cb"
+  ],
+  "xorecx, ecx": [
+    "31c9",
+    "33c9"
+  ],
+  "xorecx, edi": [
+    "31f9",
+    "33cf"
+  ],
+  "xorecx, edx": [
+    "31d1",
+    "33ca"
+  ],
+  "xorecx, esi": [
+    "31f1",
+    "33ce"
+  ],
+  "xorecx, esp": [
+    "31e1",
+    "33cc"
+  ],
+  "xoredi, eax": [
+    "31c7",
+    "33f8"
+  ],
+  "xoredi, ebp": [
+    "31ef",
+    "33fd"
+  ],
+  "xoredi, ebx": [
+    "31df",
+    "33fb"
+  ],
+  "xoredi, ecx": [
+    "31cf",
+    "33f9"
+  ],
+  "xoredi, edi": [
+    "31ff",
+    "33ff"
+  ],
+  "xoredi, edx": [
+    "31d7",
+    "33fa"
+  ],
+  "xoredi, esi": [
+    "31f7",
+    "33fe"
+  ],
+  "xoredi, esp": [
+    "31e7",
+    "33fc"
+  ],
+  "xoredx, eax": [
+    "31c2",
+    "33d0"
+  ],
+  "xoredx, ebp": [
+    "31ea",
+    "33d5"
+  ],
+  "xoredx, ebx": [
+    "31da",
+    "33d3"
+  ],
+  "xoredx, ecx": [
+    "31ca",
+    "33d1"
+  ],
+  "xoredx, edi": [
+    "31fa",
+    "33d7"
+  ],
+  "xoredx, edx": [
+    "31d2",
+    "33d2"
+  ],
+  "xoredx, esi": [
+    "31f2",
+    "33d6"
+  ],
+  "xoredx, esp": [
+    "31e2",
+    "33d4"
+  ],
+  "xoresi, eax": [
+    "31c6",
+    "33f0"
+  ],
+  "xoresi, ebp": [
+    "31ee",
+    "33f5"
+  ],
+  "xoresi, ebx": [
+    "31de",
+    "33f3"
+  ],
+  "xoresi, ecx": [
+    "31ce",
+    "33f1"
+  ],
+  "xoresi, edi": [
+    "31fe",
+    "33f7"
+  ],
+  "xoresi, edx": [
+    "31d6",
+    "33f2"
+  ],
+  "xoresi, esi": [
+    "31f6",
+    "33f6"
+  ],
+  "xoresi, esp": [
+    "31e6",
+    "33f4"
+  ],
+  "xoresp, eax": [
+    "31c4",
+    "33e0"
+  ],
+  "xoresp, ebp": [
+    "31ec",
+    "33e5"
+  ],
+  "xoresp, ebx": [
+    "31dc",
+    "33e3"
+  ],
+  "xoresp, ecx": [
+    "31cc",
+    "33e1"
+  ],
+  "xoresp, edi": [
+    "31fc",
+    "33e7"
+  ],
+  "xoresp, edx": [
+    "31d4",
+    "33e2"
+  ],
+  "xoresp, esi": [
+    "31f4",
+    "33e6"
+  ],
+  "xoresp, esp": [
+    "31e4",
+    "33e4"
+  ]
+}
